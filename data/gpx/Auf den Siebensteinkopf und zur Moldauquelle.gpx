@@ -1,0 +1,122 @@
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" creator="Nationalpark Bayerischer Wald">
+
+  <wpt lat="48.955303" lon="13.572873"><name>Ausgangspunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.962864" lon="13.563566"><name>Wegweiser</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.965239" lon="13.575901"><name>Ortsausgang</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.9713" lon="13.568301"><name>Wegkreuzung</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.973386" lon="13.562409"><name>Forstweg</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.973697" lon="13.577178"><name>Waldgrenze</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.970346" lon="13.588899"><name>Wasserlauf</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.964354" lon="13.594068"><name>Bachüberquerung</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.955371" lon="13.599606"><name>Rastplatz</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.955748" lon="13.585887"><name>Scheitelpunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.953529" lon="13.580263"><name>Bergsattel</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.955303" lon="13.572873"><name>Rückkehr zum Ausgangspunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+<trk>
+    <name>Auf den Siebensteinkopf und zur Moldauquelle</name>
+    <desc>Die grenzüberschreitende Tour führt vom Nationalpark Bayerischer Wald in den Nationalpark Šumava. Schwellgraben und Reschbachklause sind Zeugen der ehemaligen Holztrift. Der Siebensteinkopf bietet bei gutem Wetter Fernsicht bis zu den Alpen. Über die Moldauquelle geht es zum Grenzort Bučina und wieder über die Grenze zurück zum Ausgangspunkt.</desc>
+    <trkseg>
+      <trkpt lat="48.955303" lon="13.572873" />
+      <trkpt lat="48.955666" lon="13.571928" />
+      <trkpt lat="48.956606" lon="13.570521" />
+      <trkpt lat="48.958348" lon="13.566535" />
+      <trkpt lat="48.959793" lon="13.56459" />
+      <trkpt lat="48.959791" lon="13.563997" />
+      <trkpt lat="48.960536" lon="13.563305" />
+      <trkpt lat="48.961702" lon="13.56299" />
+      <trkpt lat="48.962204" lon="13.563068" />
+      <trkpt lat="48.962546" lon="13.563688" />
+      <trkpt lat="48.962864" lon="13.563566" />
+      <trkpt lat="48.962864" lon="13.563566" />
+      <trkpt lat="48.962546" lon="13.563688" />
+      <trkpt lat="48.962562" lon="13.564052" />
+      <trkpt lat="48.963263" lon="13.564557" />
+      <trkpt lat="48.963473" lon="13.565144" />
+      <trkpt lat="48.963962" lon="13.568377" />
+      <trkpt lat="48.96444" lon="13.570256" />
+      <trkpt lat="48.965154" lon="13.571527" />
+      <trkpt lat="48.965716" lon="13.572132" />
+      <trkpt lat="48.966443" lon="13.573673" />
+      <trkpt lat="48.965704" lon="13.576002" />
+      <trkpt lat="48.965239" lon="13.575901" />
+      <trkpt lat="48.965007" lon="13.575207" />
+      <trkpt lat="48.964723" lon="13.575131" />
+      <trkpt lat="48.964691" lon="13.57485" />
+      <trkpt lat="48.964691" lon="13.57485" />
+      <trkpt lat="48.964723" lon="13.575131" />
+      <trkpt lat="48.965007" lon="13.575207" />
+      <trkpt lat="48.965239" lon="13.575901" />
+      <trkpt lat="48.965704" lon="13.576002" />
+      <trkpt lat="48.966447" lon="13.573698" />
+      <trkpt lat="48.967362" lon="13.574994" />
+      <trkpt lat="48.967765" lon="13.575128" />
+      <trkpt lat="48.968205" lon="13.573162" />
+      <trkpt lat="48.969518" lon="13.570819" />
+      <trkpt lat="48.9713" lon="13.568301" />
+      <trkpt lat="48.971839" lon="13.568115" />
+      <trkpt lat="48.972227" lon="13.56826" />
+      <trkpt lat="48.97153" lon="13.564915" />
+      <trkpt lat="48.972017" lon="13.562671" />
+      <trkpt lat="48.973386" lon="13.562409" />
+      <trkpt lat="48.973831" lon="13.561377" />
+      <trkpt lat="48.974611" lon="13.560617" />
+      <trkpt lat="48.974668" lon="13.560766" />
+      <trkpt lat="48.974668" lon="13.560766" />
+      <trkpt lat="48.974611" lon="13.560617" />
+      <trkpt lat="48.973831" lon="13.561377" />
+      <trkpt lat="48.973386" lon="13.562409" />
+      <trkpt lat="48.972017" lon="13.562671" />
+      <trkpt lat="48.971523" lon="13.564636" />
+      <trkpt lat="48.972227" lon="13.56826" />
+      <trkpt lat="48.972741" lon="13.56858" />
+      <trkpt lat="48.973835" lon="13.570325" />
+      <trkpt lat="48.974216" lon="13.572637" />
+      <trkpt lat="48.974123" lon="13.573468" />
+      <trkpt lat="48.973798" lon="13.574336" />
+      <trkpt lat="48.973697" lon="13.577178" />
+      <trkpt lat="48.972843" lon="13.579442" />
+      <trkpt lat="48.973132" lon="13.584267" />
+      <trkpt lat="48.974016" lon="13.58743" />
+      <trkpt lat="48.972954" lon="13.587686" />
+      <trkpt lat="48.970346" lon="13.588899" />
+      <trkpt lat="48.968747" lon="13.590257" />
+      <trkpt lat="48.968112" lon="13.592144" />
+      <trkpt lat="48.968077" lon="13.594301" />
+      <trkpt lat="48.966449" lon="13.592754" />
+      <trkpt lat="48.965682" lon="13.591308" />
+      <trkpt lat="48.965361" lon="13.591692" />
+      <trkpt lat="48.964354" lon="13.594068" />
+      <trkpt lat="48.963524" lon="13.59491" />
+      <trkpt lat="48.962754" lon="13.596267" />
+      <trkpt lat="48.962229" lon="13.595825" />
+      <trkpt lat="48.961502" lon="13.595834" />
+      <trkpt lat="48.960151" lon="13.597104" />
+      <trkpt lat="48.959573" lon="13.597281" />
+      <trkpt lat="48.957359" lon="13.596754" />
+      <trkpt lat="48.956615" lon="13.598059" />
+      <trkpt lat="48.955371" lon="13.599606" />
+      <trkpt lat="48.955485" lon="13.598533" />
+      <trkpt lat="48.955314" lon="13.596768" />
+      <trkpt lat="48.954829" lon="13.595545" />
+      <trkpt lat="48.954729" lon="13.594903" />
+      <trkpt lat="48.955415" lon="13.593139" />
+      <trkpt lat="48.955733" lon="13.591677" />
+      <trkpt lat="48.955811" lon="13.590671" />
+      <trkpt lat="48.955515" lon="13.58908" />
+      <trkpt lat="48.956566" lon="13.588668" />
+      <trkpt lat="48.957516" lon="13.587864" />
+      <trkpt lat="48.955748" lon="13.585887" />
+      <trkpt lat="48.954197" lon="13.583661" />
+      <trkpt lat="48.953914" lon="13.582838" />
+      <trkpt lat="48.953887" lon="13.581279" />
+      <trkpt lat="48.953735" lon="13.581152" />
+      <trkpt lat="48.953529" lon="13.580263" />
+      <trkpt lat="48.953987" lon="13.579401" />
+      <trkpt lat="48.95432" lon="13.575547" />
+      <trkpt lat="48.954507" lon="13.575458" />
+      <trkpt lat="48.954514" lon="13.5751" />
+      <trkpt lat="48.955243" lon="13.573602" />
+      <trkpt lat="48.955303" lon="13.572873" />
+    </trkseg>
+  </trk>
+</gpx>

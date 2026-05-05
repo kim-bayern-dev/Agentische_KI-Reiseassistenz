@@ -1,0 +1,77 @@
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" creator="Nationalpark Bayerischer Wald">
+  
+  
+  <wpt lat="48.921955" lon="13.411105"><name>Ausgangspunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.921191" lon="13.40997"><name>Wegweiser</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.919206" lon="13.41028"><name>Ortsausgang</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.918206" lon="13.409918"><name>Wegkreuzung</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.916607" lon="13.409576"><name>Forstweg</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.916252" lon="13.41105"><name>Waldgrenze</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.917071" lon="13.41208"><name>Wasserlauf</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.918552" lon="13.412281"><name>Bachüberquerung</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.919395" lon="13.412944"><name>Rastplatz</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.921129" lon="13.41191"><name>Scheitelpunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.921504" lon="13.411673"><name>Bergsattel</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.921968" lon="13.411123"><name>Rückkehr zum Ausgangspunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+<trk>
+    <name>Rundweg Libelle - Barrierearmes Naturerlebnis im Großen Filz</name>
+    <desc>Auf einer Strecke von 1,6 Kilometern führt uns der barrierearme Rundweg Libelle zu einem einzigartigen und vielfältigen Hochmoor im Nationalpark Bayerischer Wald. Teilweise über Bohlenwege geht es von der Diensthüttenstraße zum nahegelegenen Hochmoor Großer Filz. Mehrere Sitzgelegenheiten und eine Aussichtsplattform mit Blick auf das Moor laden zum Verweilen ein.</desc>
+    <trkseg>
+      <trkpt lat="48.921955" lon="13.411105" />
+      <trkpt lat="48.92186" lon="13.410974" />
+      <trkpt lat="48.921484" lon="13.410408" />
+      <trkpt lat="48.921193" lon="13.409972" />
+      <trkpt lat="48.921191" lon="13.40997" />
+      <trkpt lat="48.920449" lon="13.409287" />
+      <trkpt lat="48.92034" lon="13.409296" />
+      <trkpt lat="48.920287" lon="13.409424" />
+      <trkpt lat="48.920278" lon="13.409431" />
+      <trkpt lat="48.919206" lon="13.41028" />
+      <trkpt lat="48.919196" lon="13.410277" />
+      <trkpt lat="48.918206" lon="13.409918" />
+      <trkpt lat="48.917606" lon="13.409928" />
+      <trkpt lat="48.916607" lon="13.409576" />
+      <trkpt lat="48.916599" lon="13.409574" />
+      <trkpt lat="48.916557" lon="13.409735" />
+      <trkpt lat="48.916393" lon="13.409927" />
+      <trkpt lat="48.91633" lon="13.410107" />
+      <trkpt lat="48.916215" lon="13.410814" />
+      <trkpt lat="48.916252" lon="13.41105" />
+      <trkpt lat="48.916309" lon="13.411418" />
+      <trkpt lat="48.916477" lon="13.411747" />
+      <trkpt lat="48.916529" lon="13.412039" />
+      <trkpt lat="48.917071" lon="13.41208" />
+      <trkpt lat="48.917742" lon="13.41185" />
+      <trkpt lat="48.917906" lon="13.411794" />
+      <trkpt lat="48.918091" lon="13.411815" />
+      <trkpt lat="48.918351" lon="13.411985" />
+      <trkpt lat="48.918552" lon="13.412281" />
+      <trkpt lat="48.918552" lon="13.412549" />
+      <trkpt lat="48.918552" lon="13.412549" />
+      <trkpt lat="48.918584" lon="13.412745" />
+      <trkpt lat="48.918584" lon="13.412745" />
+      <trkpt lat="48.918641" lon="13.412866" />
+      <trkpt lat="48.918641" lon="13.412866" />
+      <trkpt lat="48.918756" lon="13.412941" />
+      <trkpt lat="48.918756" lon="13.412941" />
+      <trkpt lat="48.918984" lon="13.412915" />
+      <trkpt lat="48.918984" lon="13.412915" />
+      <trkpt lat="48.918984" lon="13.412915" />
+      <trkpt lat="48.919088" lon="13.413016" />
+      <trkpt lat="48.919202" lon="13.413027" />
+      <trkpt lat="48.919395" lon="13.412944" />
+      <trkpt lat="48.920001" lon="13.412185" />
+      <trkpt lat="48.920188" lon="13.412007" />
+      <trkpt lat="48.921129" lon="13.41191" />
+      <trkpt lat="48.921504" lon="13.411673" />
+      <trkpt lat="48.921518" lon="13.411664" />
+      <trkpt lat="48.921786" lon="13.411124" />
+      <trkpt lat="48.921824" lon="13.411047" />
+      <trkpt lat="48.921889" lon="13.411107" />
+      <trkpt lat="48.921889" lon="13.411107" />
+      <trkpt lat="48.921968" lon="13.411123" />
+      <trkpt lat="48.921968" lon="13.411123" />
+      <trkpt lat="48.921968" lon="13.411123" />
+    </trkseg>
+  </trk>
+</gpx>

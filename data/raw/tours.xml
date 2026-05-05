@@ -1,0 +1,4048 @@
+<buch>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0001</index>
+    <gpx>Auf den Spuren der Holztrift.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>0.45</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>30</hm_aufstieg>
+    <hm_abstieg>30</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Mauth</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>01</tournr>
+    <titel>Auf den Spuren der Holztrift</titel>
+    <prosa_preserved><bold>Auf den Spuren der Holztrift</bold>
+Auf dieser Tour kann man gleich mehrere Gewässer erleben: zunächst folgt der Weg dem Wassergraben oder Schwellgraben - einem Verbindungskanal zweier Bäche - und dann dem Reschbach. Am Scheitelpunkt de...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Buchwaldstraße, Mauth, 94151 Mauth (Navi: 48.955304, 13.572886)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Auf dieser Tour kann man gleich mehrere Gewässer erleben: zunächst folgt der Weg dem Wassergraben oder Schwellgraben - einem Verbindungskanal zweier Bäche - und dann dem Reschbach. Am Scheitelpunkt der Tour befindet sich die idyllische Reschbachklause, ein künstlich angelegter See aus der Zeit der Holztrift.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0001_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Reschbachklause</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572886</longitude>
+      <latitude>48.955304</latitude>
+      <bildtext>Reschbachklause</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0001_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Biberspuren</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572886</longitude>
+      <latitude>48.955304</latitude>
+      <bildtext>Biberspuren</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0001_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wanderweg</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572886</longitude>
+      <latitude>48.955304</latitude>
+      <bildtext>Wanderweg</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0001_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Biberspuren</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572886</longitude>
+      <latitude>48.955304</latitude>
+      <bildtext>Biberspuren</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0001_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wilder Wald</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.572886</longitude>
+      <latitude>48.955304</latitude>
+      <bildtext>Wilder Wald</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0001_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572886</longitude>
+      <latitude>48.955304</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0001_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Reschbachklause</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572886</longitude>
+      <latitude>48.955304</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0002</index>
+    <gpx>Urwaldrelikte im Norden des Nationalparks.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>4.30</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>290</hm_aufstieg>
+    <hm_abstieg>290</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Lindberg</tag>
+    <tag>Regen</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>02</tournr>
+    <titel>Urwaldrelikte im Norden des Nationalparks</titel>
+    <prosa_preserved><bold>Urwaldrelikte im Norden des Nationalparks</bold>
+Auf dieser einfachen Tour entdecken wir ein echtes Urwaldgebiet, den Hans-Watzlik-Hain, mit der größten Tanne im Bayerischen Wald und weiteren riesigen alten Bäumen. Das Schwellhäusl lockt mit bayeris...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Parkplatz Brechhäuslau, Lindberg, 94227 Lindberg (Navi: 49.09660261, 13.23822939)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Auf dieser einfachen Tour entdecken wir ein echtes Urwaldgebiet, den Hans-Watzlik-Hain, mit der größten Tanne im Bayerischen Wald und weiteren riesigen alten Bäumen. Das Schwellhäusl lockt mit bayerisch-böhmischer Küche zur Einkehr und liegt idyllisch an der Schmalzbachschwelle. Über den Hochbergsattel und durch wilde Nationalparkwälder führt der Weg nach Bayerisch Eisenstein und wieder zurück zum Ausgangspunkt.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0002_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Watzlikhain </bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Michael Pscheidl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Michael Pscheidl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.23822939</longitude>
+      <latitude>49.09660261</latitude>
+      <bildtext>Hans-Watzlik-Hain</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0002_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Schwellhäusl</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Franz Leibl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Franz Leibl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.23822939</longitude>
+      <latitude>49.09660261</latitude>
+      <bildtext>Schwellhäusl</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0002_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Schwellgraben</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.23822939</longitude>
+      <latitude>49.09660261</latitude>
+      <bildtext>Schwellgraben</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0002_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.23822939</longitude>
+      <latitude>49.09660261</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0002_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wildnis Zwieslerwaldhaus</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.23822939</longitude>
+      <latitude>49.09660261</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0003</index>
+    <gpx>Im Ferdinandsthal grenzüberschreitend wandern .gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>3.30</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>300</hm_aufstieg>
+    <hm_abstieg>300</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Bayerisch Eisenstein</tag>
+    <tag>Regen</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>03</tournr>
+    <titel>Im Ferdinandsthal grenzüberschreitend wandern </titel>
+    <prosa_preserved><bold>Im Ferdinandsthal grenzüberschreitend wandern </bold>
+Diese mittelschwere Wanderung wartet mit Naturhighlights und geschichtsträchtigen Orten auf. Nach Überquerung der Grenze zu Tschechien gibt es Einiges über die Geschichte der Glasherstellung und auch ...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Bahnhof Bayerisch Eisenstein, Bayerisch Eisenstein, 94252 Bayerisch Eisenstein (Navi: 49.121813, 13.208647)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Diese mittelschwere Wanderung wartet mit Naturhighlights und geschichtsträchtigen Orten auf. Nach Überquerung der Grenze zu Tschechien gibt es Einiges über die Geschichte der Glasherstellung und auch der langen Trennung während des Kalten Krieges zu lernen und zu entdecken. Auf der bayerischen Seite führt die Tour durch wilde Nationalparkwälder mit Baumriesen und einem Urwaldrest. Der Grenzbahnhof Bayerisch Eisenstein wartet mit den vielfältigen Ausstellungen in den NaturparkWelten darauf, sich mit der Grenzregion näher zu befassen.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0003_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Grenzübergang Ferdinandsthal</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.208647</longitude>
+      <latitude>49.121813</latitude>
+      <bildtext>Grenzübergang Ferdinandsthal</bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0003_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wanderweg im Ferdinandsthal</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.208647</longitude>
+      <latitude>49.121813</latitude>
+      <bildtext>Wanderweg im Ferdinandsthal</bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0003_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Grenzbahnhof Bayerisch Eisenstein</bildtitel>
+      <bildautor>Naturpark Bayerischer Wald</bildautor>
+      <lizenz>Naturpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.208647</longitude>
+      <latitude>49.121813</latitude>
+      <bildtext>Grenzbahnhof Bayerisch Eisenstein</bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0003_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Urwaldrelikt Hans-Watzlik-Hain</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.208647</longitude>
+      <latitude>49.121813</latitude>
+      <bildtext>Urwaldrelikt Hans-Watzlik-Hain</bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0003_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Urwaldgebiet Mittelsteighütte</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.208647</longitude>
+      <latitude>49.121813</latitude>
+      <bildtext>Urwaldgebiet Mittelsteighütte&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0003_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wildnis Zwieslerwaldhaus</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.208647</longitude>
+      <latitude>49.121813</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0003_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.208647</longitude>
+      <latitude>49.121813</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0004</index>
+    <gpx>Von Ludwigsthal zum Schwellhäusl.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>4.00</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>240</hm_aufstieg>
+    <hm_abstieg>240</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Lindberg</tag>
+    <tag>Regen</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>04</tournr>
+    <titel>Von Ludwigsthal zum Schwellhäusl</titel>
+    <prosa_preserved><bold>Von Ludwigsthal zum Schwellhäusl</bold>
+Dieser ausgedehnte Spaziergang führt zu landschaftlichen und kulturellen Highlights zwischen Ludwigsthal und Zwieslerwaldhaus. Auf dem Weg passieren wir das Tierfreigelände mit der Steinzeithöhle und ...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Parkplatz Nationalparkzentrum Falkenstein , Lindberg, 94227 Lindberg (Navi: 49.059695451, 13.237898065)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Dieser ausgedehnte Spaziergang führt zu landschaftlichen und kulturellen Highlights zwischen Ludwigsthal und Zwieslerwaldhaus. Auf dem Weg passieren wir das Tierfreigelände mit der Steinzeithöhle und das Haus zur Wildnis. Nach Zwieslerwaldhaus geht es entlang des Schwellgrabens zur Ausflugsgaststätte Schwellhäusl und dann zurück nach Ludwigsthal. Besonderheiten: Nationalparkzentrum Falkenstein mit Tierfreigelände, Steinzeithöhle und Haus zur Wildnis, Schmalzbach-Schwelle mit Schwellhäusl</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0004_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Wildpferde beim Haus zur Wildnis </bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Johannes Haslinger</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Johannes Haslinger</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.237898065</longitude>
+      <latitude>49.059695451</latitude>
+      <bildtext>Wildpferde beim Haus zur Wildnis</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0004_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Steinzeithöhle</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Frank Bietau</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Frank Bietau</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.237898065</longitude>
+      <latitude>49.059695451</latitude>
+      <bildtext>Steinzeithöhle</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0004_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Haus zur Wildnis</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Johannes Haslinger</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Johannes Haslinger</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.237898065</longitude>
+      <latitude>49.059695451</latitude>
+      <bildtext>Haus zur Wildnis</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0004_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Schwellhäusl</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.237898065</longitude>
+      <latitude>49.059695451</latitude>
+      <bildtext>Schwellhäusl</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0004_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Deffernik</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.237898065</longitude>
+      <latitude>49.059695451</latitude>
+      <bildtext>Deffernik</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0004_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Auerochse im TFG Falkenstein</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.237898065</longitude>
+      <latitude>49.059695451</latitude>
+      <bildtext>KONICA MINOLTA DIGITAL CAMERA</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0004_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wildniscamp</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.237898065</longitude>
+      <latitude>49.059695451</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0004_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.237898065</longitude>
+      <latitude>49.059695451</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0005</index>
+    <gpx>Urwaldtour rund um Zwieslerwaldhaus.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>2.15</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>170</hm_aufstieg>
+    <hm_abstieg>170</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Lindberg</tag>
+    <tag>Regen</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>05</tournr>
+    <titel>Urwaldtour rund um Zwieslerwaldhaus</titel>
+    <prosa_preserved><bold>Urwaldtour rund um Zwieslerwaldhaus</bold>
+Diese leichte familienfreundliche Tour bietet gleich mehrere Highlights: zwei Urwaldgebiete, eine rekordverdächtige Tanne, eine urig-gemütliche Einkehrmöglichkeit und natürlich Wald und Wasser in viel...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Parkplatz P1 Zwieslerwaldhaus, Lindberg, 94227 Lindberg (Navi: 49.087828874, 13.246550815)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Diese leichte familienfreundliche Tour bietet gleich mehrere Highlights: zwei Urwaldgebiete, eine rekordverdächtige Tanne, eine urig-gemütliche Einkehrmöglichkeit und natürlich Wald und Wasser in vielfältigen Ausprägungen. Auf einfach zu begehenden Wegen ohne große Höhenunterschiede führt die Tour von Zwieslerwaldhaus in die Urwaldrelikte Mittelsteighütte und Hans-Watzlik-Hain und über das Schwellhäusl und am Schwellsteig entlang wieder zurück.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0005_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Hans-Watzlik-Hain</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.246550815</longitude>
+      <latitude>49.087828874</latitude>
+      <bildtext>Hans-Watzlik-Hain</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0005_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Waldhaustanne</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.246550815</longitude>
+      <latitude>49.087828874</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0005_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Mittelsteighütte</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Philipp Seyfried</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Philipp Seyfried</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.246550815</longitude>
+      <latitude>49.087828874</latitude>
+      <bildtext>Mittelsteighütte</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0005_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Mittelsteighütte</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Franz Leibl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Franz Leibl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.246550815</longitude>
+      <latitude>49.087828874</latitude>
+      <bildtext>Mittelsteighütte</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0005_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Schwellhäusl</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.246550815</longitude>
+      <latitude>49.087828874</latitude>
+      <bildtext>Schwellhäusl</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0005_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Urwaldgebiet Mittelsteighütte</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.246550815</longitude>
+      <latitude>49.087828874</latitude>
+      <bildtext>Urwaldgebiet Mittelsteighütte&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0005_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.246550815</longitude>
+      <latitude>49.087828874</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0006</index>
+    <gpx>Auf den Lusen über Teufelsloch und Himmelsleiter.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>4.15</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>550</hm_aufstieg>
+    <hm_abstieg>550</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Neuschönau</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>06</tournr>
+    <titel>Auf den Lusen über Teufelsloch und Himmelsleiter</titel>
+    <prosa_preserved><bold>Auf den Lusen über Teufelsloch und Himmelsleiter</bold>
+Der anstrengende Aufstieg auf den Lusen vergeht durch die abwechslungsreichen Natureindrücke wie im Flug. Der quirlige Bergbach Kleine Ohe, die idyllische Martinsklause und das sagenumwobene Teufelslo...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Parkplatz Fredenbrücke, Neuschönau, 94556 Neuschönau (Navi: 48.937775028, 13.453598461)</ausgangspunkt>
+          <anforderungen>Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Der anstrengende Aufstieg auf den Lusen vergeht durch die abwechslungsreichen Natureindrücke wie im Flug. Der quirlige Bergbach Kleine Ohe, die idyllische Martinsklause und das sagenumwobene Teufelsloch liegen auf unserem Weg, bevor uns die steile Himmelsleiter geradewegs auf den von Felsblöcken übersäten Lusengipfel führt. Der Sage nach hat der Teufel die Felsblöcke aufgetürmt. Nach der Einkehr im Schutzhaus geht es gestärkt an den Abstieg.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0006_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Himmelsleiter </bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Thomas Drexler</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Thomas Drexler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.453598461</longitude>
+      <latitude>48.937775028</latitude>
+      <bildtext>Himmelsleiter</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0006_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Holzbohlensteg</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.453598461</longitude>
+      <latitude>48.937775028</latitude>
+      <bildtext>Holzbohlensteg</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0006_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.453598461</longitude>
+      <latitude>48.937775028</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0006_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Teufelsloch</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.453598461</longitude>
+      <latitude>48.937775028</latitude>
+      <bildtext>KONICA MINOLTA DIGITAL CAMERA</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0006_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Lusengipfel mit Alpenblick</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Aussicht]</kat>
+      <longitude>13.453598461</longitude>
+      <latitude>48.937775028</latitude>
+      <bildtext>Lusengipfel mit Alpenblick&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0006_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Glasarche</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.453598461</longitude>
+      <latitude>48.937775028</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0007</index>
+    <gpx>Abwechslungsreiche Rachelüberschreitung.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>7.00</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>800</hm_aufstieg>
+    <hm_abstieg>800</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Spiegelau</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>07</tournr>
+    <titel>Abwechslungsreiche Rachelüberschreitung</titel>
+    <prosa_preserved><bold>Abwechslungsreiche Rachelüberschreitung</bold>
+Auf der Tagestour zum höchsten Gipfel im Nationalpark durchqueren wir drei typische Waldgesellschaften in unterschiedlichen Höhenlagen: den Aufichtenwald, den Bergmischwald und den Bergfichtenwald. De...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Parkplatz Naturkneippanlage Spiegelau, Spiegelau, 94518 Spiegelau (Navi: 48.923781657, 13.35183421)</ausgangspunkt>
+          <anforderungen>Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Auf der Tagestour zum höchsten Gipfel im Nationalpark durchqueren wir drei typische Waldgesellschaften in unterschiedlichen Höhenlagen: den Aufichtenwald, den Bergmischwald und den Bergfichtenwald. Der Rachelgipfel mit grandioser Aussicht, der idyllische Rachelsee und das beeindruckende Hochmoor Föhraufilz sind die Höhepunkte auf dieser Tour.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0007_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Rachelsee</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.35183421</longitude>
+      <latitude>48.923781657</latitude>
+      <bildtext>Rachelsee</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0007_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.35183421</longitude>
+      <latitude>48.923781657</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0007_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Gipfelkreuz Rachel</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.35183421</longitude>
+      <latitude>48.923781657</latitude>
+      <bildtext>Gipfelkreuz Rachel</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0007_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Klingenbrunner Rachelsteig</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.35183421</longitude>
+      <latitude>48.923781657</latitude>
+      <bildtext>Klingenbrunner Rachelsteig</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0007_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Flanitz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.35183421</longitude>
+      <latitude>48.923781657</latitude>
+      <bildtext>Flanitz</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0007_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rachelseeblick</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Franz Leibl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Franz Leibl</lizenz>
+      <kat>[Aussicht]</kat>
+      <longitude>13.35183421</longitude>
+      <latitude>48.923781657</latitude>
+      <bildtext>Rachelseeblick</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0007_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Moorwaldsteg</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.35183421</longitude>
+      <latitude>48.923781657</latitude>
+      <bildtext>Moorwaldsteg</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0007_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Waldschmidthaus</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.35183421</longitude>
+      <latitude>48.923781657</latitude>
+      <bildtext>Waldschmidthaus</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0007_009.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rachelkapelle</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.35183421</longitude>
+      <latitude>48.923781657</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0007_010.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rachelgipfel</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.35183421</longitude>
+      <latitude>48.923781657</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0008</index>
+    <gpx>Erlebnisweg Finsterauer Filz.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>0.15</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>10</hm_aufstieg>
+    <hm_abstieg>10</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Mauth</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>08</tournr>
+    <titel>Erlebnisweg Finsterauer Filz</titel>
+    <prosa_preserved><bold>Erlebnisweg Finsterauer Filz</bold>
+Der Erlebnisweg Finsterauer Filz bietet Einblicke in das renaturierte Hochmoor. Auf befestigten Wegen und teils auf einem Holzbohlenweg kann man den Weg leicht mit Kinderwagen, Rollstühlen usw. befahr...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Filzweg 13, Mauth, 94151 Mauth (Navi: 48.949325005540949, 13.573004127985916)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Besonderes Naturerlebnis entlang des Weges.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Der Erlebnisweg Finsterauer Filz bietet Einblicke in das renaturierte Hochmoor. Auf befestigten Wegen und teils auf einem Holzbohlenweg kann man den Weg leicht mit Kinderwagen, Rollstühlen usw. befahren. Entlang des Weges gibt es Infotafeln zur Tier- und Pflanzenwelt im besonderen Lebensraum Hochmoor.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0008_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Erlebnisweg Finsterauer Filz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.573004127985916</longitude>
+      <latitude>48.949325005540949</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0008_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Finsterauer Filz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.573004127985916</longitude>
+      <latitude>48.949325005540949</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0008_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Erlebnisweg Finsterauer Filz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.573004127985916</longitude>
+      <latitude>48.949325005540949</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0008_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Moorauge</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.573004127985916</longitude>
+      <latitude>48.949325005540949</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0008_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.573004127985916</longitude>
+      <latitude>48.949325005540949</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0009</index>
+    <gpx>Tagestour zu den Schachten und Filzen.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>6.30</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>560</hm_aufstieg>
+    <hm_abstieg>560</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Lindberg</tag>
+    <tag>Regen</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>09</tournr>
+    <titel>Tagestour zu den Schachten und Filzen</titel>
+    <prosa_preserved><bold>Tagestour zu den Schachten und Filzen</bold>
+Die anspruchsvolle Tagestour führt von Buchenau zu den Schachten. Diese ehemaligen waldfreien Übernachtungsplätze für Hirten und ihre Tiere sind ökologisch und kulturhistorisch bedeutsame Inseln im Na...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Wanderparkplatz Buchenau, Lindberg, 94227 Lindberg (Navi: 49.032259, 13.327056)</ausgangspunkt>
+          <anforderungen>Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Die anspruchsvolle Tagestour führt von Buchenau zu den Schachten. Diese ehemaligen waldfreien Übernachtungsplätze für Hirten und ihre Tiere sind ökologisch und kulturhistorisch bedeutsame Inseln im Nationalpark Bayerischer Wald. Der Weg verläuft streckenweise auf Bohlenwegen durch mystische Moorflächen und zum geheimnisvollen dunklen Latschensee. Zurück geht es entlang der Trinkwassertalsperre Frauenau.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0009_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Mooraugen im Zwieselter Filz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.327056</longitude>
+      <latitude>49.032259</latitude>
+      <bildtext>Mooraugen im Zwieselter Filz</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0009_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Latschensee</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Florian Porst</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Florian Porst</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.327056</longitude>
+      <latitude>49.032259</latitude>
+      <bildtext>Latschensee</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0009_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wollgras</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.327056</longitude>
+      <latitude>49.032259</latitude>
+      <bildtext>Wollgras</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0009_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Hochschachten</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.327056</longitude>
+      <latitude>49.032259</latitude>
+      <bildtext>Hochschachten</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0009_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Moorauge Zwieselter Filz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.327056</longitude>
+      <latitude>49.032259</latitude>
+      <bildtext>Moorauge Zwieselter Filz</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0009_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Hochschachten</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.327056</longitude>
+      <latitude>49.032259</latitude>
+      <bildtext>Hochschachten</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0009_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Latschenfilz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.327056</longitude>
+      <latitude>49.032259</latitude>
+      <bildtext>Latschenfilz</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0009_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Schachten</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.327056</longitude>
+      <latitude>49.032259</latitude>
+      <bildtext>SONY DSC</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0009_009.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Moorauge</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.327056</longitude>
+      <latitude>49.032259</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0009_010.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Trinkwasserspeicher</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.327056</longitude>
+      <latitude>49.032259</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0010</index>
+    <gpx>Durchs Höllbachgespreng auf den Großen Falkenstein.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>5.15</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>700</hm_aufstieg>
+    <hm_abstieg>700</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Lindberg</tag>
+    <tag>Regen</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>10</tournr>
+    <titel>Durchs Höllbachgespreng auf den Großen Falkenstein</titel>
+    <prosa_preserved><bold>Durchs Höllbachgespreng auf den Großen Falkenstein</bold>
+ACHTUNG: Ab dem 13.2.2026 ist der Abschnitt der Tour zwischen den Höllbachfällen und dem Großen Falkenstein gesperrt. Grund dafür sind Wanderfalken, denen eine ungestörte Brut ermöglicht werden soll. ...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Parkplatz Zwieslerwaldhaus , Lindberg, 94227 Lindberg (Navi: 49.087035527, 13.245068752)</ausgangspunkt>
+          <anforderungen>Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>ACHTUNG: Ab dem 13.2.2026 ist der Abschnitt der Tour zwischen den Höllbachfällen und dem Großen Falkenstein gesperrt. Grund dafür sind Wanderfalken, denen eine ungestörte Brut ermöglicht werden soll. Die Umleitung führt über den Sulzschachten und ist vor Ort ausgeschildert. Die Sperrung dauert voraussichtlich bis 30.4., kann aber bei erfolgreicher Brut verlängert werden. Mehr Informationen unter https://link2.bayern/njnu Auf der anspruchsvollen Tour zum Großen Falkenstein (1.315 m) führt der Weg hinauf durch das Höllbachgespreng, eine wildromantische Landschaft mit vielen kleinen Wasserfällen und ursprünglichem Bergmischwald. Am Falkenstein-Gipfel lockt eine atemberaubende Aussicht und gleich unterhalb die gemütliche Einkehr im Schutzhaus. Hinab geht es über den Ruckowitzschachten und das Urwaldgebiet Mittelsteighütte.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0010_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Höllbachgespreng</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Steffen Krieger</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Steffen Krieger</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.245068752</longitude>
+      <latitude>49.087035527</latitude>
+      <bildtext>Höllbachgespreng</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0010_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Höllbachschwelle </bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Jo Fröhlich</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Jo Fröhlich</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.245068752</longitude>
+      <latitude>49.087035527</latitude>
+      <bildtext>Höllbachschwelle</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0010_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Ruckowitzschachten</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.245068752</longitude>
+      <latitude>49.087035527</latitude>
+      <bildtext>Ruckowitzschachten</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0010_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Großer Falkenstein</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.245068752</longitude>
+      <latitude>49.087035527</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0010_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Mittelsteighütte</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Daniela Blöchinger</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Daniela Blöchinger</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.245068752</longitude>
+      <latitude>49.087035527</latitude>
+      <bildtext>Mittelsteighütte</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0010_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.245068752</longitude>
+      <latitude>49.087035527</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0010_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Höllbach</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.245068752</longitude>
+      <latitude>49.087035527</latitude>
+      <bildtext>SONY DSC</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0010_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Urwaldgebiet Mittelsteighütte</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.245068752</longitude>
+      <latitude>49.087035527</latitude>
+      <bildtext>Urwaldgebiet Mittelsteighütte&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0010_009.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Ruckowitzschachten</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.245068752</longitude>
+      <latitude>49.087035527</latitude>
+      <bildtext>SONY DSC</bildtext>
+      <bildtags>
+        <tag>Lindberg</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0011</index>
+    <gpx>Wildnis-Spaziergang ins Biberrevier bei Riedlhütte.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>1.30</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>80</hm_aufstieg>
+    <hm_abstieg>80</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Riedlhütte</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>11</tournr>
+    <titel>Wildnis-Spaziergang ins Biberrevier bei Riedlhütte</titel>
+    <prosa_preserved><bold>Wildnis-Spaziergang ins Biberrevier bei Riedlhütte</bold>
+Toller, ortsnaher Rundwanderweg für alle Konditionslevel: Da fast keine Höhenmeter überwunden werden müssen, kann man ganz entspannt in die wilde Nationalpark-Natur eintauchen. Dazu gibt&apos;s ganz besond...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Nationalparkstraße, Riedlhütte, 94566 Riedlhütte (Navi: 48.921883, 13.379968)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Toller, ortsnaher Rundwanderweg für alle Konditionslevel: Da fast keine Höhenmeter überwunden werden müssen, kann man ganz entspannt in die wilde Nationalpark-Natur eintauchen. Dazu gibt&apos;s ganz besondere Einblicke in eines der wildesten Biberreviere des Schutzgebiets.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0011_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Biberrevier am Ölbach</bildtitel>
+      <bildautor>Gregor Wolf</bildautor>
+      <lizenz>Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext>Biberrevier am Ölbach&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0011_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Biberrevier am Ölbach</bildtitel>
+      <bildautor>Gregor Wolf</bildautor>
+      <lizenz>Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext>Biberrevier am Ölbach&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0011_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wilder Wald</bildtitel>
+      <bildautor>Gregor Wolf</bildautor>
+      <lizenz>Gregor Wolf</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0011_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wanderweg im wilden Wald</bildtitel>
+      <bildautor>Gregor Wolf</bildautor>
+      <lizenz>Gregor Wolf</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0011_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Markierung Steinpilz</bildtitel>
+      <bildautor>Gregor Wolf</bildautor>
+      <lizenz>Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0011_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wilder Wald</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext>Wilder Wald&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0012</index>
+    <gpx>Die wilde Nordseite des Rachels.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>6.00</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>670</hm_aufstieg>
+    <hm_abstieg>670</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Frauenau</tag>
+    <tag>Regen</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>12</tournr>
+    <titel>Die wilde Nordseite des Rachels</titel>
+    <prosa_preserved><bold>Die wilde Nordseite des Rachels</bold>
+Diese Wildnis-Tour führt zu den schönsten Ecken des Großen Rachels. Die schmalen und steinigen Pfade auf der Nordseite des Berges sind ein Traum für Fans ursprünglicher Natur. Abgerundet wird die Tour...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Rachelsteigweg, Frauenau, 94258 Frauenau (Navi: 48.998387, 13.3257)</ausgangspunkt>
+          <anforderungen>Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Diese Wildnis-Tour führt zu den schönsten Ecken des Großen Rachels. Die schmalen und steinigen Pfade auf der Nordseite des Berges sind ein Traum für Fans ursprünglicher Natur. Abgerundet wird die Tour durch einen Ausflug zur Trinkwassertalsperre Frauenau, zur Rachelwiese und natürlich zum Rachelgipfel.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0012_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Frauenauer Rachelsteig</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.3257</longitude>
+      <latitude>48.998387</latitude>
+      <bildtext>Frauenauer Rachelsteig&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Frauenau</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0012_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Trinkwassertalsperre Frauenau</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.3257</longitude>
+      <latitude>48.998387</latitude>
+      <bildtext>Trinkwassertalsperre.&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Frauenau</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0012_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rachelgipfel</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Daniela Blöchinger</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Daniela Blöchinger</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.3257</longitude>
+      <latitude>48.998387</latitude>
+      <bildtext>Rachelgipfel.&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Frauenau</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0012_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rachelsteig</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Julia Zink</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Julia Zink</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.3257</longitude>
+      <latitude>48.998387</latitude>
+      <bildtext>Kurze Seilsicherung.&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Frauenau</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0012_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Ausblick vom Rachelsteig</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Franz Leibl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Franz Leibl</lizenz>
+      <kat>[Aussicht]</kat>
+      <longitude>13.3257</longitude>
+      <latitude>48.998387</latitude>
+      <bildtext>Ausblick vom Rachelsteig.&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Frauenau</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0012_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.3257</longitude>
+      <latitude>48.998387</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Frauenau</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0012_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wilder Wald am Rachel</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.3257</longitude>
+      <latitude>48.998387</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Frauenau</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0012_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rachelwanderung</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.3257</longitude>
+      <latitude>48.998387</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Frauenau</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0013</index>
+    <gpx>Große Lusenrunde ab Graupsäge.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>5.00</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>640</hm_aufstieg>
+    <hm_abstieg>640</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Neuschönau</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>13</tournr>
+    <titel>Große Lusenrunde ab Graupsäge</titel>
+    <prosa_preserved><bold>Große Lusenrunde ab Graupsäge</bold>
+Die große Lusenrunde vergeht dank der vielen Highlights entlang des Weges wie im Flug. Während des Aufstiegs auf den Lusen geht es durch das Tal der Kleinen Ohe zur Martinsklause. Über das sagenumwobe...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Nationalparkstraße, Neuschönau, 94556 Neuschönau (Navi: 48.923969, 13.445179)</ausgangspunkt>
+          <anforderungen>Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Die große Lusenrunde vergeht dank der vielen Highlights entlang des Weges wie im Flug. Während des Aufstiegs auf den Lusen geht es durch das Tal der Kleinen Ohe zur Martinsklause. Über das sagenumwobene Teufelsloch und vorbei an der Glasarche erreichen wir über die steile Himmelsleiter den Lusengipfel. Der Abstieg erfolgt vorbei am Lusenschutzhaus über den Waldhäuserriegel, wo sich neben dem Buchenwald einige Felsformationen bestaunen lassen. Durch das Bergdorf Waldhäuser geht es wieder zurück zur Graupsäge. Es gibt unterwegs mehrere Möglichkeiten in den Igelbus zu steigen und somit die Tour zu verkürzen.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0013_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Martinsklause</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.445179</longitude>
+      <latitude>48.923969</latitude>
+      <bildtext>Martinsklause</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0013_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Teufelsloch</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.445179</longitude>
+      <latitude>48.923969</latitude>
+      <bildtext>Teufelsloch</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0013_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Glasarche</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Daniela Wimmer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Daniela Wimmer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.445179</longitude>
+      <latitude>48.923969</latitude>
+      <bildtext>Glasarche</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0013_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Lusenschutzhaus</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.445179</longitude>
+      <latitude>48.923969</latitude>
+      <bildtext>Lusenschutzhaus</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0013_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Himmelsleiter </bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Thomas Drexler</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Thomas Drexler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.445179</longitude>
+      <latitude>48.923969</latitude>
+      <bildtext>Himmelsleiter</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0013_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>An der Fredenbrücke</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Daniela Blöchinger</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Daniela Blöchinger</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.445179</longitude>
+      <latitude>48.923969</latitude>
+      <bildtext>An der Fredenbrücke</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0013_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Blockmeer auf dem Lusengipfel</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.445179</longitude>
+      <latitude>48.923969</latitude>
+      <bildtext>Blockmeer auf dem Lusengipfel</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0013_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Teufelsloch</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.445179</longitude>
+      <latitude>48.923969</latitude>
+      <bildtext>KONICA MINOLTA DIGITAL CAMERA</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0013_009.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Glasarche</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.445179</longitude>
+      <latitude>48.923969</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0013_010.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.445179</longitude>
+      <latitude>48.923969</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0014</index>
+    <gpx>Mit Bus und Bahn zum Rachel.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>4.45</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>550</hm_aufstieg>
+    <hm_abstieg>550</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Spiegelau</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>14</tournr>
+    <titel>Mit Bus und Bahn zum Rachel</titel>
+    <prosa_preserved><bold>Mit Bus und Bahn zum Rachel</bold>
+Diese Streckentour funktioniert bestens dank Igelbus und Waldbahn. So kann die romantische Aufstiegsvariante auf den Rachel gewählt werden, entlang der rauschenden Flanitz, die den Weg zum Rachelgipfe...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Bahnhof Spiegelau, Spiegelau, 94518 Spiegelau (Navi: 48.944646, 13.336152)</ausgangspunkt>
+          <anforderungen>Anspruchsvoller Weg, gute Kondition und Trittsicherheit erforderlich.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Diese Streckentour funktioniert bestens dank Igelbus und Waldbahn. So kann die romantische Aufstiegsvariante auf den Rachel gewählt werden, entlang der rauschenden Flanitz, die den Weg zum Rachelgipfel weist. Danach geht&apos;s auf das wilde Rachel-Hochplateau, zur hölzernen Rachelkapelle und zum klaren Rachelsee. Den Abschluss der Tour bildet die Einkehr in der Racheldiensthütte.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0014_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Klingenbrunner Rachelsteig</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.336152</longitude>
+      <latitude>48.944646</latitude>
+      <bildtext>Klingenbrunner Rachelsteig&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0014_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rachelgipfel</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Daniela Blöchinger</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Daniela Blöchinger</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.336152</longitude>
+      <latitude>48.944646</latitude>
+      <bildtext>Rachelgipfel.&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0014_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Flanitz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.336152</longitude>
+      <latitude>48.944646</latitude>
+      <bildtext>Flanitz&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0014_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Ausblick am Waldschmidthaus</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Daniela Blöchinger</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Daniela Blöchinger</lizenz>
+      <kat>[Aussicht]</kat>
+      <longitude>13.336152</longitude>
+      <latitude>48.944646</latitude>
+      <bildtext>Seeblick.&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0014_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Igelbus</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Daniela Blöchinger</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Daniela Blöchinger</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.336152</longitude>
+      <latitude>48.944646</latitude>
+      <bildtext>Igelbus.&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0014_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.336152</longitude>
+      <latitude>48.944646</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0014_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rachelgipfel</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.336152</longitude>
+      <latitude>48.944646</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0014_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rachelseeblick</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Aussicht]</kat>
+      <longitude>13.336152</longitude>
+      <latitude>48.944646</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0015</index>
+    <gpx>Auf den Siebensteinkopf und zur Moldauquelle.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>3.45</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>330</hm_aufstieg>
+    <hm_abstieg>330</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Mauth</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>15</tournr>
+    <titel>Auf den Siebensteinkopf und zur Moldauquelle</titel>
+    <prosa_preserved><bold>Auf den Siebensteinkopf und zur Moldauquelle</bold>
+Die grenzüberschreitende Tour führt vom Nationalpark Bayerischer Wald in den Nationalpark Šumava. Schwellgraben und Reschbachklause sind Zeugen der ehemaligen Holztrift. Der Siebensteinkopf bietet bei...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Buchwaldstraße, Mauth, 94151 Mauth (Navi: 48.955303, 13.572873)</ausgangspunkt>
+          <anforderungen>Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Die grenzüberschreitende Tour führt vom Nationalpark Bayerischer Wald in den Nationalpark Šumava. Schwellgraben und Reschbachklause sind Zeugen der ehemaligen Holztrift. Der Siebensteinkopf bietet bei gutem Wetter Fernsicht bis zu den Alpen. Über die Moldauquelle geht es zum Grenzort Bučina und wieder über die Grenze zurück zum Ausgangspunkt.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0015_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Landesgrenze am Siebensteinkopf</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572873</longitude>
+      <latitude>48.955303</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0015_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Moldauquelle Sumava </bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572873</longitude>
+      <latitude>48.955303</latitude>
+      <bildtext>Moldauquelle</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0015_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wanderweg am Siebensteinkopf</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572873</longitude>
+      <latitude>48.955303</latitude>
+      <bildtext>Wanderweg am Siebensteinkopf</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0015_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Reschbachklause</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572873</longitude>
+      <latitude>48.955303</latitude>
+      <bildtext>Reschbachklause</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0015_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Siebensteinkopf</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572873</longitude>
+      <latitude>48.955303</latitude>
+      <bildtext>Siebensteinkopf</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0015_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572873</longitude>
+      <latitude>48.955303</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0015_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Moldauquelle</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572873</longitude>
+      <latitude>48.955303</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0015_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Blick auf Finsterau</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Aussicht]</kat>
+      <longitude>13.572873</longitude>
+      <latitude>48.955303</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0015_009.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Reschbachklause</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.572873</longitude>
+      <latitude>48.955303</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0016</index>
+    <gpx>Am Bergbach entlang zum Tummelplatz.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>4.15</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>440</hm_aufstieg>
+    <hm_abstieg>440</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Neuschönau</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>16</tournr>
+    <titel>Am Bergbach entlang zum Tummelplatz</titel>
+    <prosa_preserved><bold>Am Bergbach entlang zum Tummelplatz</bold>
+Entlang des Bergbaches Sagwasser steigt der Weg stetig an zur Sagwasserklause und weiter zum Tummelplatz, einem ehemaligen Sammelplatz für Hirten und Weidevieh. Ein kurzer Abstecher auf den versteckte...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Parkplatz Sagwassersäge, Neuschönau, 94556 Neuschönau (Navi: 48.896615174, 13.509319933)</ausgangspunkt>
+          <anforderungen>Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Entlang des Bergbaches Sagwasser steigt der Weg stetig an zur Sagwasserklause und weiter zum Tummelplatz, einem ehemaligen Sammelplatz für Hirten und Weidevieh. Ein kurzer Abstecher auf den versteckten Felsblock Großalmeyerschloss, der den höchsten Punkt des Hohlsteins bildet, wird mit großartiger Aussicht zum Lusen und die Nationalpark-Gipfel belohnt. Durch wilde Wälder geht es zurück zum Ausgangspunkt.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0016_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Tummelplatz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.509319933</longitude>
+      <latitude>48.896615174</latitude>
+      <bildtext>Tummelplatz</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0016_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Großalmeyerschloss</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.509319933</longitude>
+      <latitude>48.896615174</latitude>
+      <bildtext>Großalmeyerschloss</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0016_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Blick Lusen Großalmeyerschloss</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Franz Leibl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Franz Leibl</lizenz>
+      <kat>[Aussicht]</kat>
+      <longitude>13.509319933</longitude>
+      <latitude>48.896615174</latitude>
+      <bildtext>Blick auf den Lusen vom Großalmeyerschloss</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0016_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Sagwasserklause</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.509319933</longitude>
+      <latitude>48.896615174</latitude>
+      <bildtext>Sagwasserklause</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0016_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.509319933</longitude>
+      <latitude>48.896615174</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0016_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Sagwasserbach</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.509319933</longitude>
+      <latitude>48.896615174</latitude>
+      <bildtext>SONY DSC</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0016_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Sagwasserklause</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.509319933</longitude>
+      <latitude>48.896615174</latitude>
+      <bildtext>SONY DSC</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0016_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Tummelplatz Wandergruppe</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.509319933</longitude>
+      <latitude>48.896615174</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0016_009.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Sagwasser</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Karl Klostermann</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Karl Klostermann</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.509319933</longitude>
+      <latitude>48.896615174</latitude>
+      <bildtext>Sagwasser</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0017</index>
+    <gpx>Erlebnisweg Seebach - Barrierearmes Naturerlebnis am Seebach.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>0.30</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>0</hm_aufstieg>
+    <hm_abstieg>0</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Sankt Oswald-Riedlhütte</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>17</tournr>
+    <titel>Erlebnisweg Seebach - Barrierearmes Naturerlebnis am Seebach</titel>
+    <prosa_preserved><bold>Erlebnisweg Seebach - Barrierearmes Naturerlebnis am Seebach</bold>
+Auf diesem 1,3 km langen Weg (einfache Strecke) wandert man entlang des Seebachs, einem Bergbach, der den Rachelsee entwässert und schließlich in die Große Ohe mündet. Unterwegs kann man eine von Bibe...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Diensthüttenstraße, Sankt Oswald-Riedlhütte, 94568 Sankt Oswald-Riedlhütte (Navi: 48.937428, 13.412481)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Besonderes Naturerlebnis entlang des Weges.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Auf diesem 1,3 km langen Weg (einfache Strecke) wandert man entlang des Seebachs, einem Bergbach, der den Rachelsee entwässert und schließlich in die Große Ohe mündet. Unterwegs kann man eine von Biber und Borkenkäfer geschaffene einmalige Waldwildnis erleben.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0017_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Erlebnisweg Seebach</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.412481</longitude>
+      <latitude>48.937428</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0017_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rundweg Hirschgeweih</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.412481</longitude>
+      <latitude>48.937428</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0017_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Erlebnisweg Seebach</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.412481</longitude>
+      <latitude>48.937428</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0017_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wildnis am Seebach</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.412481</longitude>
+      <latitude>48.937428</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0017_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>20230603 erlebniswegseebach barrierefreiheit barrierearm rundweghirschgeweih seebach gregor_wolf (23).JPG</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.412481</longitude>
+      <latitude>48.937428</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0017_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wilder Wald</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.412481</longitude>
+      <latitude>48.937428</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0017_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.412481</longitude>
+      <latitude>48.937428</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0018</index>
+    <gpx>Zum Rachelsee und zur Racheldiensthütte.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>5.45</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>450</hm_aufstieg>
+    <hm_abstieg>450</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Spiegelau</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>18</tournr>
+    <titel>Zum Rachelsee und zur Racheldiensthütte</titel>
+    <prosa_preserved><bold>Zum Rachelsee und zur Racheldiensthütte</bold>
+Abseits der ausgetretenen Pfade führt diese Tageswanderung in den tieferen Lagen des Nationalparks auf weniger begangenen Pfaden zum Rachelsee. Auf dem Hinweg kommt man am Moorgebiet Föhraufilz vorbei...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Nationalparkstraße, Spiegelau, 94518 Spiegelau (Navi: 48.921883, 13.379968)</ausgangspunkt>
+          <anforderungen>Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Abseits der ausgetretenen Pfade führt diese Tageswanderung in den tieferen Lagen des Nationalparks auf weniger begangenen Pfaden zum Rachelsee. Auf dem Hinweg kommt man am Moorgebiet Föhraufilz vorbei, der Rückweg lockt mit der Felsenkanzel und einer Einkehr in der Racheldiensthütte. Mit dem Igelbus lässt sich der Rückweg von dort sogar abkürzen.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0018_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Wanderer unterhalb des Rachelsees</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext>Weg zur Racheldiensthütte.&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0018_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Racheldiensthütte</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Daniela Blöchinger</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Daniela Blöchinger</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext>Racheldiensthütte</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0018_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rachelsee</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext>Rachelsee.&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0018_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rachelsee</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0018_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Jungwuchs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext>Wilder Wald.&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0018_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Föhraufilz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Karl Klostermann</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Karl Klostermann</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext>Föhraufilz.&lt;br&gt;</bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0018_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.379968</longitude>
+      <latitude>48.921883</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Spiegelau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0019</index>
+    <gpx>Nationalpark kompakt - Tour durchs Tier-Freigelände.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>5.00</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>150</hm_aufstieg>
+    <hm_abstieg>150</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Neuschönau</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>19</tournr>
+    <titel>Nationalpark kompakt - Tour durchs Tier-Freigelände</titel>
+    <prosa_preserved><bold>Nationalpark kompakt - Tour durchs Tier-Freigelände</bold>
+Auf der für Rollstühle und Kinderwagen geeigneten Tour durch das Nationalparkzentrum Lusen kann der Nationalpark im Kompaktformat erlebt werden. Im Tier-Freigelände entdecken Besucher in den weitläufi...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Parkplatz Nationalparkzentrum Lusen, Neuschönau, 94556 Neuschönau (Navi: 48.8922917643, 13.4883390448)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Auf der für Rollstühle und Kinderwagen geeigneten Tour durch das Nationalparkzentrum Lusen kann der Nationalpark im Kompaktformat erlebt werden. Im Tier-Freigelände entdecken Besucher in den weitläufigen, naturnah gestalteten Gehegen beispielsweise Wolf, Luchs, Bär, Wisent, Auerhahn oder Fischotter. Im Naturgarten des Pflanzen- und Gesteinsfreigeländes wird auch die Flora hautnah mit allen Sinnen erlebbar. Das Hans-Eisenmann-Haus lockt mit Kino, Ausstellung und Einkehrmöglichkeit.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0019_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Bär  </bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Elke Ohland</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Elke Ohland</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.4883390448</longitude>
+      <latitude>48.8922917643</latitude>
+      <bildtext>Bärengehege im Tier-Freigelände</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0019_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Eisenmann-Haus  </bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Jo Fröhlich</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Jo Fröhlich</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.4883390448</longitude>
+      <latitude>48.8922917643</latitude>
+      <bildtext>Hans-Eisenmann-Haus</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0019_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Tierfreigelände Wisent</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.4883390448</longitude>
+      <latitude>48.8922917643</latitude>
+      <bildtext>Wisente</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0019_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Infotafel</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Daniela Blöchinger</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Daniela Blöchinger</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.4883390448</longitude>
+      <latitude>48.8922917643</latitude>
+      <bildtext>Infotafel im Tier-Freigelände</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0019_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Luchs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Christoph Moning</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Christoph Moning</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.4883390448</longitude>
+      <latitude>48.8922917643</latitude>
+      <bildtext>Luchs</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0019_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Tierfreigelände Infotafel</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.4883390448</longitude>
+      <latitude>48.8922917643</latitude>
+      <bildtext>Infotafel im Tier-Freigelände</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0019_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wildschwein</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annabell Gsödl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annabell Gsödl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.4883390448</longitude>
+      <latitude>48.8922917643</latitude>
+      <bildtext>Wildschwein im Tier-Freigelände</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0019_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.4883390448</longitude>
+      <latitude>48.8922917643</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0019_009.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Hans-Eisenmann-Haus</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.4883390448</longitude>
+      <latitude>48.8922917643</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0019_010.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Elchkuh mit Jungen</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.4883390448</longitude>
+      <latitude>48.8922917643</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0020</index>
+    <gpx>Rundweg Flusskrebs - Familienfreundliche Tour über Stock und Stein.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>0.45</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>60</hm_aufstieg>
+    <hm_abstieg>60</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Neuschönau</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Rundweg</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>20</tournr>
+    <titel>Rundweg Flusskrebs - Familienfreundliche Tour über Stock und Stein</titel>
+    <prosa_preserved><bold>Rundweg Flusskrebs - Familienfreundliche Tour über Stock und Stein</bold>
+Schon bei Kindern ab 4 Jahren weckt dieser Weg die Lust am Wandern und am Entdecken der wilden Waldnatur im Nationalpark Bayerischer Wald. Am Bach, in einer kleinen Schutzhütte, an der kleinen Felsfor...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Am Sagwasser 2, Neuschönau, 94556 Neuschönau (Navi: 48.896738, 13.509059)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Schon bei Kindern ab 4 Jahren weckt dieser Weg die Lust am Wandern und am Entdecken der wilden Waldnatur im Nationalpark Bayerischer Wald. Am Bach, in einer kleinen Schutzhütte, an der kleinen Felsformation am Ochsenriegel gibt es genügend Möglichkeiten zum Entdecken, sodass es unterwegs nicht langweilig wird. Der Rundweg ‚Flusskrebs‘ ist zertifiziert vom Deutschen Wanderverband in der Kategorie ‚familienspaß‘.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0020_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Rundweg Flusskrebs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.509059</longitude>
+      <latitude>48.896738</latitude>
+      <bildtext>Rundweg Flusskrebs</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0020_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rundweg Flusskrebs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.509059</longitude>
+      <latitude>48.896738</latitude>
+      <bildtext>Rundweg Flusskrebs</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0020_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rundweg Flusskrebs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.509059</longitude>
+      <latitude>48.896738</latitude>
+      <bildtext>Rundweg Flusskrebs</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0020_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rundweg Flusskrebs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.509059</longitude>
+      <latitude>48.896738</latitude>
+      <bildtext>Rundweg Flusskrebs</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0020_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Sagwasserbach</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.509059</longitude>
+      <latitude>48.896738</latitude>
+      <bildtext>SONY DSC</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0020_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.509059</longitude>
+      <latitude>48.896738</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0020_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Flusskrebs.jpg</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Gewässer]</kat>
+      <longitude>13.509059</longitude>
+      <latitude>48.896738</latitude>
+      <bildtext>Markierung &apos;Flusskrebs&apos;</bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0020_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Qualitätsweg &apos;familienspaß&apos;</bildtitel>
+      <bildautor>Deutscher Wanderverband</bildautor>
+      <lizenz>Deutscher Wanderverband</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.509059</longitude>
+      <latitude>48.896738</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Neuschönau</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0021</index>
+    <gpx>Rundweg Kreuzotter - Wandern durch Klosterfilz und Großer Filz.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>3.15</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>180</hm_aufstieg>
+    <hm_abstieg>180</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Sankt Oswald-Riedlhütte</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Rundweg</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>21</tournr>
+    <titel>Rundweg Kreuzotter - Wandern durch Klosterfilz und Großer Filz</titel>
+    <prosa_preserved><bold>Rundweg Kreuzotter - Wandern durch Klosterfilz und Großer Filz</bold>
+Auf dieser gemütlichen Tour im Hochmoorkomplex Klosterfilz und Großer Filz geht es teils auf Bohlenwegen durch Moore und Wald. Wir wandeln auf den Spuren der Kreuzotter, die hier heimisch ist. An der ...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Parkplatz Diensthüttenstraße, Sankt Oswald-Riedlhütte, 94566 Sankt Oswald-Riedlhütte (Navi: 48.921765459, 13.41100506)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Auf dieser gemütlichen Tour im Hochmoorkomplex Klosterfilz und Großer Filz geht es teils auf Bohlenwegen durch Moore und Wald. Wir wandeln auf den Spuren der Kreuzotter, die hier heimisch ist. An der Großen Ohe entlang geht es weiter zum Filzwald, der ganz anderes aussieht als die meisten Nationalparkwälder. Moorkiefern trotzen den sauren nährstoffarmen Böden.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0021_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Bohlensteg im Großen Filz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra de Graaf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra de Graaf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.41100506</longitude>
+      <latitude>48.921765459</latitude>
+      <bildtext>Bohlensteg im Großen Filz</bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0021_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Großer Filz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra de Graaf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra de Graaf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.41100506</longitude>
+      <latitude>48.921765459</latitude>
+      <bildtext>Großer Filz</bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0021_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Großer Filz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.41100506</longitude>
+      <latitude>48.921765459</latitude>
+      <bildtext>Großer Filz</bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0021_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Klosterfilz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Sandra Schrönghammer</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Sandra Schrönghammer</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.41100506</longitude>
+      <latitude>48.921765459</latitude>
+      <bildtext>Klosterfilz</bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0021_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Moos</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.41100506</longitude>
+      <latitude>48.921765459</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0021_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.41100506</longitude>
+      <latitude>48.921765459</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0021_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Kreuzotter</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.41100506</longitude>
+      <latitude>48.921765459</latitude>
+      <bildtext>Markierung &apos;Kreuzotter&apos;</bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0022</index>
+    <gpx>Rundweg Bussard - Von Bayerisch Eisenstein zum Schwellhäusl.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>2.45</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>290</hm_aufstieg>
+    <hm_abstieg>290</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Bayerisch Eisenstein</tag>
+    <tag>Regen</tag>
+    <tag>Deutschland</tag>
+    <tag>Rundweg</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>22</tournr>
+    <titel>Rundweg Bussard - Von Bayerisch Eisenstein zum Schwellhäusl</titel>
+    <prosa_preserved><bold>Rundweg Bussard - Von Bayerisch Eisenstein zum Schwellhäusl</bold>
+Der Rundweg Bussard führt durch wilde Wälder zwischen Bayerisch Eisenstein und der beliebten und idyllisch an der Schmalzbach-Schwelle gelegenen Ausflugsgaststätte Schwellhäusl, die mit regionalen Sch...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Anton-Pech-Weg 12, Bayerisch Eisenstein, 94252 Bayerisch Eisenstein (Navi: 49.120533462, 13.201362597)</ausgangspunkt>
+          <anforderungen>Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Der Rundweg Bussard führt durch wilde Wälder zwischen Bayerisch Eisenstein und der beliebten und idyllisch an der Schmalzbach-Schwelle gelegenen Ausflugsgaststätte Schwellhäusl, die mit regionalen Schmankerln zur Einkehr lockt.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0022_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Schwellhäusl Trifterklause</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.201362597</longitude>
+      <latitude>49.120533462</latitude>
+      <bildtext>Schwellhäusl Trifterklause</bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0022_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rundweg Bussard</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.201362597</longitude>
+      <latitude>49.120533462</latitude>
+      <bildtext>Wanderweg Bussard</bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0022_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rundweg Bussard</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.201362597</longitude>
+      <latitude>49.120533462</latitude>
+      <bildtext>Wanderweg Bussard</bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0022_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Schutzhütte Hochbergsattel</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Teresa Schreib</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Teresa Schreib</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.201362597</longitude>
+      <latitude>49.120533462</latitude>
+      <bildtext>Schutzhütte Hochbergsattel</bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0022_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wilder Wald</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.201362597</longitude>
+      <latitude>49.120533462</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0022_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Bussard.jpg</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.201362597</longitude>
+      <latitude>49.120533462</latitude>
+      <bildtext>Markierung &apos;Bussard&apos;</bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0022_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.201362597</longitude>
+      <latitude>49.120533462</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Bayerisch Eisenstein</tag>
+        <tag>Regen</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0023</index>
+    <gpx>Rundweg Wasseramsel - Highlight-Tour mit Klause, Gipfel und Mooreinblicken.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>3.00</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>300</hm_aufstieg>
+    <hm_abstieg>300</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Mauth</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Rundweg</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>23</tournr>
+    <titel>Rundweg Wasseramsel - Highlight-Tour mit Klause, Gipfel und Mooreinblicken</titel>
+    <prosa_preserved><bold>Rundweg Wasseramsel - Highlight-Tour mit Klause, Gipfel und Mooreinblicken</bold>
+Die Tour führt vom Wistlberg über die Alte Klause am Reschbach entlang zur Reschbachklause, wo an vielen Stellen Spuren der historischen Holznutzung und der Holztrift zu entdecken sind. Besonders zu b...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Buchwaldstraße 53, Mauth, 94151 Mauth (Navi: 48.941554809335855, 13.570874040335118)</ausgangspunkt>
+          <anforderungen>Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Die Tour führt vom Wistlberg über die Alte Klause am Reschbach entlang zur Reschbachklause, wo an vielen Stellen Spuren der historischen Holznutzung und der Holztrift zu entdecken sind. Besonders zu beachten ist die mit Granitsteinen kunstvoll eingefasste Abzweigung des Schwellgrabens. Von der Reschbachklause, die der Erzeugung eines Wasserschwalls für die Holztrift im Reschbach diente, geht es hinauf zum Siebensteinkopf (1263 m ü. NN), wobei auch die Landesgrenze zu Tschechien berührt wird. Nach dem Gipfelerlebnis mit Aussicht am Siebensteinkopf erfolgt der Abstieg über alte Steige in Richtung Grenzübergang Bucina/Buchwald. Von dort geht es weiter in Richtung Teufelsbachklause, die im 19. Jahrhundert über den Schwellgraben mit Wasser aus dem Reschbach versorgt wurde. Von der Klause geht es weiter zum Finsterauer Filz, einem renaturierten Hochmoor, das für Besucher durch Bohlenstege barrierearm erschlossen ist, so dass sich die besondere Moorvegetation ganz leicht erleben lässt. Nach dem Finsterauer Filz führt das letzte Stück der Wanderung wieder zurück zum Wistlberg.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0023_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Schwellgraben</bildtitel>
+      <bildautor>Woidlife Photography , Michael Rackl</bildautor>
+      <lizenz>Woidlife Photography , Michael Rackl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.570874040335118</longitude>
+      <latitude>48.941554809335855</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0023_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rast an der Reschbachklause</bildtitel>
+      <bildautor>Woidlife Photography, Michael Rackl</bildautor>
+      <lizenz>Woidlife Photography, Michael Rackl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.570874040335118</longitude>
+      <latitude>48.941554809335855</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0023_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Siebensteinkopf</bildtitel>
+      <bildautor>Woidlife  Photography, Michael Rackl</bildautor>
+      <lizenz>Woidlife  Photography, Michael Rackl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.570874040335118</longitude>
+      <latitude>48.941554809335855</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0023_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Auf dem Weg zum Siebensteinkopf</bildtitel>
+      <bildautor>Woidlife Photography, Michael Rackl</bildautor>
+      <lizenz>Woidlife Photography, Michael Rackl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.570874040335118</longitude>
+      <latitude>48.941554809335855</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0023_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Finsterauer Filz</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.570874040335118</longitude>
+      <latitude>48.941554809335855</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0023_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Wilder Wald am Siebensteinkopf</bildtitel>
+      <bildautor>Woidlife Photography, Michael Rackl</bildautor>
+      <lizenz>Woidlife Photography, Michael Rackl</lizenz>
+      <kat>[Natur]</kat>
+      <longitude>13.570874040335118</longitude>
+      <latitude>48.941554809335855</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0023_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Blick auf Finsterau</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Aussicht]</kat>
+      <longitude>13.570874040335118</longitude>
+      <latitude>48.941554809335855</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0024</index>
+    <gpx>Rundweg Eisvogel - Am Steinbach entlang auf die Große Kanzel.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>2.45</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>270</hm_aufstieg>
+    <hm_abstieg>270</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>false</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>false</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Mauth</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Rundweg</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>24</tournr>
+    <titel>Rundweg Eisvogel - Am Steinbach entlang auf die Große Kanzel</titel>
+    <prosa_preserved><bold>Rundweg Eisvogel - Am Steinbach entlang auf die Große Kanzel</bold>
+Der Rundweg Eisvogel ist eine spannende Entdeckertour abseits der Besucherhotspots im Nationalpark mit viel Wasser, Gipfelausblicken und abwechslungsreichem wildem Wald. Obwohl die Strecke am Rand des...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Jägerstraßl, Mauth, 94151 Mauth (Navi: 48.88726, 13.574903)</ausgangspunkt>
+          <anforderungen>Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Der Rundweg Eisvogel ist eine spannende Entdeckertour abseits der Besucherhotspots im Nationalpark mit viel Wasser, Gipfelausblicken und abwechslungsreichem wildem Wald. Obwohl die Strecke am Rand des Schutzgebietes liegt, wird die natürliche Stille nur selten gestört und Entspannung ist garantiert. Der Rundweg ist vom Deutschen Wanderverband zertifiziert als Kurzer Qualitätsweg der Kategorie ‚traumtour‘.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0024_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Steinbachklause</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.574903</longitude>
+      <latitude>48.88726</latitude>
+      <bildtext>Steinbachklause</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0024_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rundweg Eisvogel</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Annette Nigl</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Annette Nigl</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.574903</longitude>
+      <latitude>48.88726</latitude>
+      <bildtext>Rundweg Eisvogel</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0024_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Große Kanzel</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.574903</longitude>
+      <latitude>48.88726</latitude>
+      <bildtext>Große Kanzel</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0024_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Steinbachklause</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.574903</longitude>
+      <latitude>48.88726</latitude>
+      <bildtext>Steinbachklause</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0024_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Steinbach Biberbau</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.574903</longitude>
+      <latitude>48.88726</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0024_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Steinbachklause</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.574903</longitude>
+      <latitude>48.88726</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0024_007.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.574903</longitude>
+      <latitude>48.88726</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0024_008.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Eisvogel.jpg</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.574903</longitude>
+      <latitude>48.88726</latitude>
+      <bildtext>Markierung &apos;Eisvogel&apos;</bildtext>
+      <bildtags>
+        <tag>Mauth</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+<tour>
+  <german>
+    <public>false</public>
+    <index>nationalpark_0025</index>
+    <gpx>Rundweg Libelle - Barrierearmes Naturerlebnis im Großen Filz.gpx</gpx>
+    <autor>Nationalpark Bayerischer Wald</autor>
+    <tourentyp>Wanderung</tourentyp>
+    <schwierigkeit>blau</schwierigkeit>
+    <dauer>0.30</dauer>
+    <dauer_tage>1</dauer_tage>
+    <hm_aufstieg>20</hm_aufstieg>
+    <hm_abstieg>20</hm_abstieg>
+    <public_transport>true</public_transport>
+    <einkehr>false</einkehr>
+    <kinderfreundlich>true</kinderfreundlich>
+    <hundefreundlich>true</hundefreundlich>
+    <kinderwagen>true</kinderwagen>
+    <baden>false</baden>
+    <kette_master></kette_master>
+    <kette_prior></kette_prior>
+    <kette_next></kette_next>
+    <tag>Sankt Oswald-Riedlhütte</tag>
+    <tag>Freyung-Grafenau</tag>
+    <tag>Deutschland</tag>
+    <tag>Rundweg</tag>
+    <tag>Tipp</tag>
+    <tag>Nationalpark Bayerischer Wald</tag>
+    <tag>Bayern</tag>
+    <tag>Wanderung</tag>
+    <tournr>25</tournr>
+    <titel>Rundweg Libelle - Barrierearmes Naturerlebnis im Großen Filz</titel>
+    <prosa_preserved><bold>Rundweg Libelle - Barrierearmes Naturerlebnis im Großen Filz</bold>
+Auf einer Strecke von 1,6 Kilometern führt uns der barrierearme Rundweg Libelle zu einem einzigartigen und vielfältigen Hochmoor im Nationalpark Bayerischer Wald. Teilweise über Bohlenwege geht es von...</prosa_preserved>
+    <beschreibung>
+      <content>
+        <text_preserved>
+          <ausgangspunkt>Ausgangspunkt: Parkplatz Diensthüttenstraße, Sankt Oswald-Riedlhütte, 94566 Sankt Oswald-Riedlhütte (Navi: 48.921955, 13.411105)</ausgangspunkt>
+          <anforderungen>Familienfreundlicher Weg, gut für Familien mit Kindern geeignet. Besonderes Naturerlebnis entlang des Weges. Rundweg, kein Aufstieg oder Abstieg nötig.</anforderungen>
+          <refreshments>Keine Einkehrmöglichkeiten auf der Tour angegeben.</refreshments>
+          <varianten>Keine Varianten auf der Tour angegeben.</varianten>
+        </text_preserved>
+      </content>
+      <content>
+        <text_preserved>Auf einer Strecke von 1,6 Kilometern führt uns der barrierearme Rundweg Libelle zu einem einzigartigen und vielfältigen Hochmoor im Nationalpark Bayerischer Wald. Teilweise über Bohlenwege geht es von der Diensthüttenstraße zum nahegelegenen Hochmoor Großer Filz. Mehrere Sitzgelegenheiten und eine Aussichtsplattform mit Blick auf das Moor laden zum Verweilen ein.</text_preserved>
+      </content>
+    </beschreibung>
+    <Bild>
+      <bilddatei>NP_0025_001.jpg</bilddatei>
+      <keybild>true</keybild>
+      <bildtitel>Bohlenweg am Rundweg Libelle</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.411105</longitude>
+      <latitude>48.921955</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0025_002.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Rundweg Libelle</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.411105</longitude>
+      <latitude>48.921955</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0025_003.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Baumpilzkopf</bildtitel>
+      <bildautor>Martin Stadler</bildautor>
+      <lizenz>Martin Stadler</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.411105</longitude>
+      <latitude>48.921955</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0025_004.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Infotafel und Sitzbank</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald, Gregor Wolf</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald, Gregor Wolf</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.411105</longitude>
+      <latitude>48.921955</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0025_005.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Immer richtig unterwegs</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.411105</longitude>
+      <latitude>48.921955</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+    <Bild>
+      <bilddatei>NP_0025_006.jpg</bilddatei>
+      <keybild>false</keybild>
+      <bildtitel>Libelle.jpg</bildtitel>
+      <bildautor>Nationalpark Bayerischer Wald</bildautor>
+      <lizenz>Nationalpark Bayerischer Wald</lizenz>
+      <kat>[Wanderweg]</kat>
+      <longitude>13.411105</longitude>
+      <latitude>48.921955</latitude>
+      <bildtext></bildtext>
+      <bildtags>
+        <tag>Sankt Oswald-Riedlhütte</tag>
+        <tag>Freyung-Grafenau</tag>
+      </bildtags>
+    </Bild>
+  </german>
+</tour>
+</buch>

@@ -1,0 +1,29 @@
+services:
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: reiseassistent 
+    image: reiseassistent:latest
+    tty: true
+    stdin_open: true
+    environment:
+      - PYTHONUNBUFFERED=1
+      - GRADIO_SERVER_NAME=0.0.0.0
+    volumes:
+      - ./lancedb/:/app/lancedb
+    ports:
+      - "8887:8807"
+    restart: unless-stopped
+    healthcheck:
+      test: [
+        "CMD",
+        "python",
+        "-c",
+        "import sys, urllib.request; r=urllib.request.urlopen('http://localhost:8887/health', timeout=5); sys.exit(0 if 200 <= r.status < 300 else 1)"
+      ]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s

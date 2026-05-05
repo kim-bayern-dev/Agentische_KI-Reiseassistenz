@@ -1,0 +1,130 @@
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" creator="Nationalpark Bayerischer Wald">
+
+  <wpt lat="49.087036" lon="13.245069"><name>Ausgangspunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="49.082052" lon="13.262096"><name>Wegweiser</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="49.074189" lon="13.274894"><name>Ortsausgang</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="49.075083" lon="13.290608"><name>Wegkreuzung</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="49.086634" lon="13.297203"><name>Forstweg</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="49.088398" lon="13.289566"><name>Waldgrenze</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="49.087694" lon="13.283687"><name>Wasserlauf</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="49.099065" lon="13.278882"><name>Bachüberquerung</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="49.10447" lon="13.262218"><name>Rastplatz</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="49.097461" lon="13.25123"><name>Scheitelpunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="49.09146" lon="13.249195"><name>Bergsattel</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="49.087036" lon="13.245069"><name>Rückkehr zum Ausgangspunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+<trk>
+    <name>Durchs Höllbachgespreng auf den Großen Falkenstein</name>
+    <desc>ACHTUNG: Ab dem 13.2.2026 ist der Abschnitt der Tour zwischen den Höllbachfällen und dem Großen Falkenstein gesperrt. Grund dafür sind Wanderfalken, denen eine ungestörte Brut ermöglicht werden soll. Die Umleitung führt über den Sulzschachten und ist vor Ort ausgeschildert. Die Sperrung dauert voraussichtlich bis 30.4., kann aber bei erfolgreicher Brut verlängert werden. Mehr Informationen unter https://link2.bayern/njnu Auf der anspruchsvollen Tour zum Großen Falkenstein (1.315 m) führt der Weg hinauf durch das Höllbachgespreng, eine wildromantische Landschaft mit vielen kleinen Wasserfällen und ursprünglichem Bergmischwald. Am Falkenstein-Gipfel lockt eine atemberaubende Aussicht und gleich unterhalb die gemütliche Einkehr im Schutzhaus. Hinab geht es über den Ruckowitzschachten und das Urwaldgebiet Mittelsteighütte.</desc>
+    <trkseg>
+      <trkpt lat="49.087036" lon="13.245069" />
+      <trkpt lat="49.088782" lon="13.248019" />
+      <trkpt lat="49.088216" lon="13.249127" />
+      <trkpt lat="49.087135" lon="13.252545" />
+      <trkpt lat="49.086287" lon="13.253991" />
+      <trkpt lat="49.085382" lon="13.256402" />
+      <trkpt lat="49.082052" lon="13.262096" />
+      <trkpt lat="49.081578" lon="13.262807" />
+      <trkpt lat="49.081174" lon="13.263071" />
+      <trkpt lat="49.081199" lon="13.263359" />
+      <trkpt lat="49.08149" lon="13.263336" />
+      <trkpt lat="49.081569" lon="13.2639" />
+      <trkpt lat="49.080812" lon="13.266333" />
+      <trkpt lat="49.079997" lon="13.268145" />
+      <trkpt lat="49.077501" lon="13.2714" />
+      <trkpt lat="49.075332" lon="13.273121" />
+      <trkpt lat="49.074189" lon="13.274894" />
+      <trkpt lat="49.073546" lon="13.275576" />
+      <trkpt lat="49.072816" lon="13.276892" />
+      <trkpt lat="49.072102" lon="13.279588" />
+      <trkpt lat="49.071857" lon="13.279759" />
+      <trkpt lat="49.0717" lon="13.280271" />
+      <trkpt lat="49.071919" lon="13.280815" />
+      <trkpt lat="49.073015" lon="13.28137" />
+      <trkpt lat="49.074131" lon="13.28233" />
+      <trkpt lat="49.074294" lon="13.282703" />
+      <trkpt lat="49.074153" lon="13.283493" />
+      <trkpt lat="49.074141" lon="13.285934" />
+      <trkpt lat="49.074037" lon="13.286347" />
+      <trkpt lat="49.07385" lon="13.286333" />
+      <trkpt lat="49.073725" lon="13.288303" />
+      <trkpt lat="49.073753" lon="13.288867" />
+      <trkpt lat="49.07434" lon="13.289847" />
+      <trkpt lat="49.075083" lon="13.290608" />
+      <trkpt lat="49.076647" lon="13.29158" />
+      <trkpt lat="49.080786" lon="13.296138" />
+      <trkpt lat="49.083497" lon="13.2972" />
+      <trkpt lat="49.084936" lon="13.296985" />
+      <trkpt lat="49.085633" lon="13.296441" />
+      <trkpt lat="49.085753" lon="13.297581" />
+      <trkpt lat="49.086634" lon="13.297203" />
+      <trkpt lat="49.087594" lon="13.297146" />
+      <trkpt lat="49.08891" lon="13.29637" />
+      <trkpt lat="49.089725" lon="13.296632" />
+      <trkpt lat="49.090141" lon="13.296453" />
+      <trkpt lat="49.089914" lon="13.295592" />
+      <trkpt lat="49.08853" lon="13.294138" />
+      <trkpt lat="49.088733" lon="13.294013" />
+      <trkpt lat="49.088586" lon="13.293693" />
+      <trkpt lat="49.08874" lon="13.293616" />
+      <trkpt lat="49.088466" lon="13.29326" />
+      <trkpt lat="49.088609" lon="13.293226" />
+      <trkpt lat="49.088493" lon="13.292919" />
+      <trkpt lat="49.088672" lon="13.292776" />
+      <trkpt lat="49.088442" lon="13.292131" />
+      <trkpt lat="49.089123" lon="13.29226" />
+      <trkpt lat="49.088876" lon="13.291156" />
+      <trkpt lat="49.089241" lon="13.290986" />
+      <trkpt lat="49.089988" lon="13.289527" />
+      <trkpt lat="49.088398" lon="13.289566" />
+      <trkpt lat="49.086599" lon="13.28843" />
+      <trkpt lat="49.0851" lon="13.2867" />
+      <trkpt lat="49.084313" lon="13.286111" />
+      <trkpt lat="49.083506" lon="13.284895" />
+      <trkpt lat="49.083948" lon="13.283715" />
+      <trkpt lat="49.085004" lon="13.283143" />
+      <trkpt lat="49.085263" lon="13.282749" />
+      <trkpt lat="49.085565" lon="13.281748" />
+      <trkpt lat="49.085453" lon="13.280963" />
+      <trkpt lat="49.08563" lon="13.28089" />
+      <trkpt lat="49.087694" lon="13.283687" />
+      <trkpt lat="49.089908" lon="13.286139" />
+      <trkpt lat="49.093026" lon="13.28446" />
+      <trkpt lat="49.093335" lon="13.284539" />
+      <trkpt lat="49.093777" lon="13.28404" />
+      <trkpt lat="49.094962" lon="13.283419" />
+      <trkpt lat="49.098417" lon="13.279091" />
+      <trkpt lat="49.099065" lon="13.278882" />
+      <trkpt lat="49.101584" lon="13.275292" />
+      <trkpt lat="49.101926" lon="13.274328" />
+      <trkpt lat="49.101881" lon="13.272593" />
+      <trkpt lat="49.102895" lon="13.270544" />
+      <trkpt lat="49.104494" lon="13.26787" />
+      <trkpt lat="49.105491" lon="13.265227" />
+      <trkpt lat="49.105292" lon="13.26433" />
+      <trkpt lat="49.105072" lon="13.264266" />
+      <trkpt lat="49.103891" lon="13.264819" />
+      <trkpt lat="49.10447" lon="13.262218" />
+      <trkpt lat="49.104206" lon="13.261896" />
+      <trkpt lat="49.103323" lon="13.261891" />
+      <trkpt lat="49.103173" lon="13.260715" />
+      <trkpt lat="49.102672" lon="13.260348" />
+      <trkpt lat="49.102353" lon="13.259765" />
+      <trkpt lat="49.102388" lon="13.258411" />
+      <trkpt lat="49.103462" lon="13.255739" />
+      <trkpt lat="49.103391" lon="13.255096" />
+      <trkpt lat="49.100712" lon="13.253589" />
+      <trkpt lat="49.099309" lon="13.25206" />
+      <trkpt lat="49.097461" lon="13.25123" />
+      <trkpt lat="49.096448" lon="13.251068" />
+      <trkpt lat="49.095835" lon="13.250094" />
+      <trkpt lat="49.095228" lon="13.249687" />
+      <trkpt lat="49.094831" lon="13.248913" />
+      <trkpt lat="49.094145" lon="13.24955" />
+      <trkpt lat="49.093523" lon="13.249039" />
+      <trkpt lat="49.09146" lon="13.249195" />
+      <trkpt lat="49.088448" lon="13.248859" />
+      <trkpt lat="49.088848" lon="13.248047" />
+      <trkpt lat="49.087036" lon="13.245069" />
+    </trkseg>
+  </trk>
+</gpx>

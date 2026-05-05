@@ -1,0 +1,37 @@
+WANDER_INTERESTS_LIST = [
+    "mit Kinder",
+    "mit Hund",
+    "schöne Aussicht",
+    "Wirtschaften unterwegs",
+    "Kultur unterwegs",
+    "historische Stätten",
+    "Naturerlebnis",
+    "Wellness unterwegs",
+    "Abenteuerlich",
+    "Fotomotive",
+    "Öffentliche Verkehrsmittel erreichbar",
+    "Anreise mit Auto",
+    "Einkehrmöglichkeiten",
+    "Gipfelbesteigung",
+]
+
+
+TOOL_ICONS = {
+    "time_now": "⏰",
+    "get_weather": "🌤️",
+    "search_web": "🔍",
+    "fetch_url": "📄",
+    "search_image": "🖼️",
+    "search_hikingtour": "🥾",
+    "retrieve_tour_details": "📜",
+    "semantic_search_in_tours": "🔍",
+    "read_file": "📄",
+    "search_travel_information": "🗺️",
+    "get_opening_info": "🏪",
+    "pois_on_map": "📍",
+    "calculate_distance": "📏",
+    "get_coordinates": "🌍",
+    "get_trail_status": "🥾",
+    "retrieve_gpx_track": "⛰️",
+    "thinking": "🧠",
+}

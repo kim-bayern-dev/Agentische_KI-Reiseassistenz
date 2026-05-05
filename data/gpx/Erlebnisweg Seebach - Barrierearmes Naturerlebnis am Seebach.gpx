@@ -1,0 +1,41 @@
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" creator="Nationalpark Bayerischer Wald">
+  
+  
+  <wpt lat="48.937428" lon="13.412481"><name>Ausgangspunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.938789" lon="13.41127"><name>Wegweiser</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.939688" lon="13.410848"><name>Ortsausgang</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.94064" lon="13.410894"><name>Wegkreuzung</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.941727" lon="13.409639"><name>Forstweg</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.943395" lon="13.408437"><name>Waldgrenze</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.943898" lon="13.408191"><name>Wasserlauf</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.944609" lon="13.408223"><name>Bachüberquerung</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.946918" lon="13.407525"><name>Rastplatz</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.948946" lon="13.407275"><name>Scheitelpunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.948945" lon="13.407274"><name>Rückkehr zum Ausgangspunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+<trk>
+    <name>Erlebnisweg Seebach - Barrierearmes Naturerlebnis am Seebach</name>
+    <desc>Auf diesem 1,3 km langen Weg (einfache Strecke) wandert man entlang des Seebachs, einem Bergbach, der den Rachelsee entwässert und schließlich in die Große Ohe mündet. Unterwegs kann man eine von Biber und Borkenkäfer geschaffene einmalige Waldwildnis erleben.</desc>
+    <trkseg>
+      <trkpt lat="48.937428" lon="13.412481" />
+      <trkpt lat="48.937434" lon="13.412479" />
+      <trkpt lat="48.937986" lon="13.412272" />
+      <trkpt lat="48.938789" lon="13.41127" />
+      <trkpt lat="48.939331" lon="13.410927" />
+      <trkpt lat="48.939688" lon="13.410848" />
+      <trkpt lat="48.940198" lon="13.411095" />
+      <trkpt lat="48.940292" lon="13.411089" />
+      <trkpt lat="48.94064" lon="13.410894" />
+      <trkpt lat="48.941017" lon="13.410683" />
+      <trkpt lat="48.941396" lon="13.41024" />
+      <trkpt lat="48.941727" lon="13.409639" />
+      <trkpt lat="48.941945" lon="13.409394" />
+      <trkpt lat="48.943395" lon="13.408437" />
+      <trkpt lat="48.943898" lon="13.408191" />
+      <trkpt lat="48.944609" lon="13.408223" />
+      <trkpt lat="48.945971" lon="13.407871" />
+      <trkpt lat="48.946918" lon="13.407525" />
+      <trkpt lat="48.948946" lon="13.407275" />
+      <trkpt lat="48.948945" lon="13.407274" />
+    </trkseg>
+  </trk>
+</gpx>

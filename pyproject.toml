@@ -1,0 +1,32 @@
+[project]
+name = "TrekKI"
+version = "0.1.0"
+description = "This is a proof-of-concept implementation of an AI-powered travel and hiking assistant. It uses an agentic AI-system with mutliple tools to support the user with their travel and hiking plans."
+authors = [
+    {name = "Tobias Sterbak [hello@tobiassterbak.com]"}
+]
+license = "MIT"
+license-files = ["LICENSE*"]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "click>=8.3.1",
+    "ddgs>=9.13.0",
+    "folium>=0.20.0",
+    "geopy>=2.4.1",
+    "gradio>=6.0.1,<6.3.0",
+    "lancedb>=0.25.3",
+    "langchain-community>=0.4.1",
+    "langchain-ollama>=1.0.0",
+    "langchain[openai]>=1.1.0",
+    "langgraph>=1.0.4",
+    "loguru>=0.7.3",
+    "markdownify>=1.2.2",
+    "ollama>=0.6.1",
+    "pre-commit>=4.5.0",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.1",
+    "tqdm>=4.67.1",
+    "xmltodict>=1.0.2",
+]

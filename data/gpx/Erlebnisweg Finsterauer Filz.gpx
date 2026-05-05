@@ -1,0 +1,102 @@
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" creator="Nationalpark Bayerischer Wald">
+  
+  
+  <wpt lat="48.949325" lon="13.573004"><name>Ausgangspunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.949408" lon="13.573416"><name>Wegweiser</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.949405" lon="13.57413"><name>Ortsausgang</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.9493" lon="13.574521"><name>Wegkreuzung</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.949297" lon="13.57508"><name>Forstweg</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.949274" lon="13.575643"><name>Waldgrenze</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.949276" lon="13.576213"><name>Wasserlauf</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.948925" lon="13.576129"><name>Bachüberquerung</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.948491" lon="13.576091"><name>Rastplatz</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.948329" lon="13.576353"><name>Scheitelpunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.94829" lon="13.576088"><name>Bergsattel</name><cmt></cmt><desc></desc><sym></sym></wpt>
+  <wpt lat="48.948083" lon="13.576122"><name>Rückkehr zum Ausgangspunkt</name><cmt></cmt><desc></desc><sym></sym></wpt>
+<trk>
+    <name>Erlebnisweg Finsterauer Filz</name>
+    <desc>Der Erlebnisweg Finsterauer Filz bietet Einblicke in das renaturierte Hochmoor. Auf befestigten Wegen und teils auf einem Holzbohlenweg kann man den Weg leicht mit Kinderwagen, Rollstühlen usw. befahren. Entlang des Weges gibt es Infotafeln zur Tier- und Pflanzenwelt im besonderen Lebensraum Hochmoor.</desc>
+    <trkseg>
+      <trkpt lat="48.949325" lon="13.573004" />
+      <trkpt lat="48.949325" lon="13.573004" />
+      <trkpt lat="48.949403" lon="13.573398" />
+      <trkpt lat="48.949403" lon="13.573398" />
+      <trkpt lat="48.949408" lon="13.573416" />
+      <trkpt lat="48.949408" lon="13.573416" />
+      <trkpt lat="48.949475" lon="13.57369" />
+      <trkpt lat="48.949475" lon="13.57369" />
+      <trkpt lat="48.949422" lon="13.573831" />
+      <trkpt lat="48.949422" lon="13.573831" />
+      <trkpt lat="48.949421" lon="13.573979" />
+      <trkpt lat="48.949421" lon="13.573979" />
+      <trkpt lat="48.949405" lon="13.57413" />
+      <trkpt lat="48.949405" lon="13.57413" />
+      <trkpt lat="48.949382" lon="13.574271" />
+      <trkpt lat="48.949382" lon="13.574271" />
+      <trkpt lat="48.949325" lon="13.574378" />
+      <trkpt lat="48.949325" lon="13.574378" />
+      <trkpt lat="48.9493" lon="13.574521" />
+      <trkpt lat="48.9493" lon="13.574521" />
+      <trkpt lat="48.949321" lon="13.57465" />
+      <trkpt lat="48.949321" lon="13.57465" />
+      <trkpt lat="48.949307" lon="13.574786" />
+      <trkpt lat="48.949307" lon="13.574786" />
+      <trkpt lat="48.949307" lon="13.574939" />
+      <trkpt lat="48.949307" lon="13.574939" />
+      <trkpt lat="48.949297" lon="13.57508" />
+      <trkpt lat="48.949297" lon="13.57508" />
+      <trkpt lat="48.949304" lon="13.575222" />
+      <trkpt lat="48.949304" lon="13.575222" />
+      <trkpt lat="48.949278" lon="13.57536" />
+      <trkpt lat="48.949278" lon="13.57536" />
+      <trkpt lat="48.94927" lon="13.575506" />
+      <trkpt lat="48.94927" lon="13.575506" />
+      <trkpt lat="48.949274" lon="13.575643" />
+      <trkpt lat="48.949274" lon="13.575643" />
+      <trkpt lat="48.949314" lon="13.575768" />
+      <trkpt lat="48.949314" lon="13.575768" />
+      <trkpt lat="48.949338" lon="13.5759" />
+      <trkpt lat="48.949338" lon="13.5759" />
+      <trkpt lat="48.949323" lon="13.576048" />
+      <trkpt lat="48.949323" lon="13.576048" />
+      <trkpt lat="48.949276" lon="13.576213" />
+      <trkpt lat="48.949276" lon="13.576213" />
+      <trkpt lat="48.949199" lon="13.576203" />
+      <trkpt lat="48.949199" lon="13.576203" />
+      <trkpt lat="48.949014" lon="13.576153" />
+      <trkpt lat="48.949014" lon="13.576153" />
+      <trkpt lat="48.948925" lon="13.576129" />
+      <trkpt lat="48.948925" lon="13.576129" />
+      <trkpt lat="48.948729" lon="13.576107" />
+      <trkpt lat="48.948729" lon="13.576107" />
+      <trkpt lat="48.9487" lon="13.576105" />
+      <trkpt lat="48.9487" lon="13.576105" />
+      <trkpt lat="48.948594" lon="13.576098" />
+      <trkpt lat="48.948594" lon="13.576098" />
+      <trkpt lat="48.948491" lon="13.576091" />
+      <trkpt lat="48.948491" lon="13.576091" />
+      <trkpt lat="48.94849" lon="13.576226" />
+      <trkpt lat="48.94849" lon="13.576226" />
+      <trkpt lat="48.948454" lon="13.576327" />
+      <trkpt lat="48.948454" lon="13.576327" />
+      <trkpt lat="48.948414" lon="13.576366" />
+      <trkpt lat="48.948414" lon="13.576366" />
+      <trkpt lat="48.948367" lon="13.576369" />
+      <trkpt lat="48.948367" lon="13.576369" />
+      <trkpt lat="48.948329" lon="13.576353" />
+      <trkpt lat="48.948329" lon="13.576353" />
+      <trkpt lat="48.948304" lon="13.576294" />
+      <trkpt lat="48.948304" lon="13.576294" />
+      <trkpt lat="48.94829" lon="13.576211" />
+      <trkpt lat="48.94829" lon="13.576211" />
+      <trkpt lat="48.948289" lon="13.576144" />
+      <trkpt lat="48.948289" lon="13.576144" />
+      <trkpt lat="48.94829" lon="13.576088" />
+      <trkpt lat="48.94829" lon="13.576088" />
+      <trkpt lat="48.948234" lon="13.576092" />
+      <trkpt lat="48.948234" lon="13.576092" />
+      <trkpt lat="48.948083" lon="13.576122" />
+      <trkpt lat="48.948083" lon="13.576122" />
+    </trkseg>
+  </trk>
+</gpx>
