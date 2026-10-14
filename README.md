@@ -1,65 +1,67 @@
+🇩🇪 Deutsch | [🇬🇧 English](README_en.md)
+
 # Agentische KI-Reiseassistenz
 
 > [!IMPORTANT]
-> This is a proof-of-concept implementation of an AI-powered travel and hiking assistant. It uses an agentic AI-system with mutliple tools to support the user with their travel and hiking plans.
+> Dies ist eine Proof-of-Concept-Umsetzung einer KI-gestützten Reise- und Wanderassistenz. Sie nutzt ein agentisches KI-System mit mehreren Tools, um Nutzerinnen und Nutzer bei ihren Reise- und Wanderplanungen zu unterstützen.
 
 > [!WARNING]
-> Do not expect production-ready code. This is a research prototype to demonstrate the capabilities of LLMs and agentic systems in the context of travel and hiking publishers. Use at your own risk.
+> Erwarten Sie keinen produktionsreifen Code. Es handelt sich um einen Forschungsprototypen, der die Fähigkeiten von LLMs und agentischen Systemen im Kontext von Reise- und Wanderpublishern demonstriert. Nutzung auf eigene Gefahr.
 
 ![Screenshot](assets/screenshot.png)
 
-## Get started with docker
+## Erste Schritte mit Docker
 
-* Install docker and docker-compose on your platform.
-* Install uv: https://docs.astral.sh/uv/getting-started/installation/
-* Clone this repository.
-* Place your travel and hiking data in the `data/` directory.
-* Install the project dependencies: `uv sync`.
-* Create the environment file `.env` by copying and editing `env.template`.
-* Setup the database: `make db`.
-* Build and run the docker image:
+* Installieren Sie Docker und Docker-Compose auf Ihrer Plattform.
+* Installieren Sie uv: https://docs.astral.sh/uv/getting-started/installation/
+* Klonen Sie dieses Repository.
+* Legen Sie Ihre Reise- und Wanderdaten im Verzeichnis `data/` ab.
+* Installieren Sie die Projektabhängigkeiten: `uv sync`.
+* Erstellen Sie die Umgebungsdatei `.env`, indem Sie `env.template` kopieren und anpassen.
+* Richten Sie die Datenbank ein: `make db`.
+* Docker-Image bauen und starten:
 ```bash
 docker compose build
 docker compose up -d
 ```
 
-Now the application is available on `127.0.0.1:8887`.
+Die Anwendung ist anschließend unter `127.0.0.1:8887` verfügbar.
 
-## Load your own data
+## Eigene Daten laden
 
-We ship this prototype with an example dataset to demonstrate the usage with different datatypes. They are stored in `data/example/`. You can use this as a starting point for your own data.
+Wir liefern den Prototypen mit einem Beispieldatensatz aus, um die Nutzung mit verschiedenen Datentypen zu demonstrieren. Diese liegen in `data/example/`. Sie können sie als Ausgangspunkt für eigene Daten verwenden.
 
-## Customize the tools
+## Tools anpassen
 
-The prototype requires a LLM that can do interleaved thinking/interleaved toolcalling. The available tools can be found in `src/tools/`.
-If you want to add tools or customize exisiting tools, add or edit files there. Then import your tool function and add it to the tool registry in `src/tools/registry.py`.
-To customize the icons displayed in the thinking log, edit `TOOL_ICONS` in `src/constants.py`.
+Der Prototyp benötigt ein LLM, das interleaved Thinking bzw. interleaved Tool-Calls unterstützt. Die verfügbaren Tools finden Sie unter `src/tools/`.
+Wenn Sie Tools hinzufügen oder vorhandene anpassen möchten, ergänzen oder bearbeiten Sie dort Dateien. Importieren Sie anschließend Ihre Tool-Funktion und registrieren Sie sie in `src/tools/registry.py`.
+Um die Icons im Thinking-Log anzupassen, bearbeiten Sie `TOOL_ICONS` in `src/constants.py`.
 
-## Setup local LLMs
+## Lokale LLMs einrichten
 
-We recommend running the application with local models on your machine. A reasoning LLM and an embedding model is required.
-See [LLM Howto](LLM-HOWTO.md) for details.
+Wir empfehlen, die Anwendung mit lokalen Modellen auf Ihrer Maschine auszuführen. Erforderlich sind ein Reasoning-LLM und ein Embedding-Modell.
+Details finden Sie im [LLM Howto](LLM-HOWTO.md).
 
-## License
+## Lizenz
 
-The code of this project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-The prototype is intended for use by media companies.
+Der Code dieses Projekts ist unter der MIT-Lizenz lizenziert – siehe die Datei [LICENSE](LICENSE) für Details.
+Der Prototyp ist für die Nutzung durch Medienunternehmen gedacht.
 
 Copyright (c) 2026 Medien.Bayern GmbH.
 
-The repository also contains example data and hiking tours from the [Nationalparks Bayerischer Wald](https://www.nationalpark-bayerischer-wald.bayern.de/besucher/touren_tipps/index.htm). These data in (`data/`) are licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). The data was accessed on 2026-05-06.
+Das Repository enthält zudem Beispieldaten und Wandertouren des [Nationalparks Bayerischer Wald](https://www.nationalpark-bayerischer-wald.bayern.de/besucher/touren_tipps/index.htm). Diese Daten in (`data/`) sind unter [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) lizenziert. Die Daten wurden am 2026-05-06 abgerufen.
 
 
-## Contributors
-Original development by the Medien.Bayern GmbH ([KI.M](https://www.kim-bayern.de/)) in collaboration with [Tobias Sterbak](https://tobiassterbak.com). 
+## Mitwirkende
+Originalentwicklung durch die Medien.Bayern GmbH ([KI.M](https://www.kim-bayern.de/)) in Zusammenarbeit mit [Tobias Sterbak](https://tobiassterbak.com).
 
-## A project of KI-Kompetenzzentrum Medien (KI.M)
-The KI-Kompetenzzentrum Medien (KI.M) is the central hub for artificial intelligence in Bavaria's media industry. We support media companies in adopting AI solutions that are legally compliant, future-proof, and built on data-sovereign infrastructure.
+## Ein Projekt des KI-Kompetenzzentrum Medien (KI.M)
+Das KI-Kompetenzzentrum Medien (KI.M) ist der zentrale Hub für künstliche Intelligenz in der bayerischen Medienbranche. Wir unterstützen Medienunternehmen dabei, KI-Lösungen zu adoptieren, die rechtskonform, zukunftssicher und auf datensouveräner Infrastruktur aufbauen.
 
-We provide independent information and hands-on demonstrations of AI capabilities and limitations in media applications. Through our AI Lab, we collaborate with partners to test real-world implementations. Our feasibility studies are published as reports on our website, while the technical foundations and code are shared here in our repositories.
+Wir bieten unabhängige Informationen und praxisnahe Demonstrationen der Fähigkeiten und Grenzen von KI in Medienanwendungen. In unserem AI Lab arbeiten wir mit Partnern zusammen, um reale Implementierungen zu erproben. Unsere Machbarkeitsstudien veröffentlichen wir als Berichte auf unserer Website, die technischen Grundlagen und den Code teilen wir hier in unseren Repositories.
 
-The KI.M is a joint initiative of the Bayerische Landeszentrale für neue Medien (BLM) and Medien.Bayern GmbH, supported by the Bavarian State Chancellery.
+Der KI.M ist eine gemeinsame Initiative der Bayerischen Landeszentrale für neue Medien (BLM) und der Medien.Bayern GmbH, unterstützt von der Bayerischen Staatskanzlei.
 
-**Learn more:** [Visit our website](https://www.kim-bayern.de/)
+**Mehr erfahren:** [Besuchen Sie unsere Website](https://www.kim-bayern.de/)
 
 ![logo-kim](assets/RZ_Logo_KIM_RGB_D-Blau.png)
