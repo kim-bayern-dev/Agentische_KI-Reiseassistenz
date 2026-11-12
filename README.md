@@ -6,19 +6,19 @@
 > Dies ist eine Proof-of-Concept-Umsetzung einer KI-gestützten Reise- und Wanderassistenz. Sie nutzt ein agentisches KI-System mit mehreren Tools, um Nutzerinnen und Nutzer bei ihren Reise- und Wanderplanungen zu unterstützen.
 
 > [!WARNING]
-> Erwarten Sie keinen produktionsreifen Code. Es handelt sich um einen Forschungsprototypen, der die Fähigkeiten von LLMs und agentischen Systemen im Kontext von Reise- und Wanderpublishern demonstriert. Nutzung auf eigene Gefahr.
+> Bei diesem Prototyp handelt es sich nicht um produktionsreifen Programmcode. Es handelt sich um einen Forschungsprototypen, der die Fähigkeiten von LLMs und agentischen Systemen im Kontext von Reise- und Wanderpublishern demonstriert. Nutzung auf eigene Gefahr.
 
 ![Screenshot](assets/screenshot.png)
 
 ## Erste Schritte mit Docker
 
-* Installieren Sie Docker und Docker-Compose auf Ihrer Plattform.
-* Installieren Sie uv: https://docs.astral.sh/uv/getting-started/installation/
-* Klonen Sie dieses Repository.
-* Legen Sie Ihre Reise- und Wanderdaten im Verzeichnis `data/` ab.
-* Installieren Sie die Projektabhängigkeiten: `uv sync`.
-* Erstellen Sie die Umgebungsdatei `.env`, indem Sie `env.template` kopieren und anpassen.
-* Richten Sie die Datenbank ein: `make db`.
+* Sicherstellen, dass Docker und Docker-Compose auf der gewünschten Plattform installiert sind.
+* Installation von uv: https://docs.astral.sh/uv/getting-started/installation/
+* Klonen des Repositories.
+* Ablegen der Reise- und Wanderdaten im Verzeichnis `data/`.
+* Projektabhängigkeiten installieren: `uv sync`.
+* Umgebungsdatei erstellen `.env`, durch kopieren und anpassen von `env.template`.
+* Datenbank einrichten: `make db`.
 * Docker-Image bauen und starten:
 ```bash
 docker compose build
@@ -29,18 +29,18 @@ Die Anwendung ist anschließend unter `127.0.0.1:8887` verfügbar.
 
 ## Eigene Daten laden
 
-Wir liefern den Prototypen mit einem Beispieldatensatz aus, um die Nutzung mit verschiedenen Datentypen zu demonstrieren. Diese liegen in `data/example/`. Sie können sie als Ausgangspunkt für eigene Daten verwenden.
+Wir liefern den Prototypen mit einem Beispieldatensatz aus, um die Nutzung mit verschiedenen Datentypen zu demonstrieren. Diese liegen in `data/example/`. Dies kann als Ausgangspunkt für eigene Daten verwendet werden.
 
 ## Tools anpassen
 
-Der Prototyp benötigt ein LLM, das interleaved Thinking bzw. interleaved Tool-Calls unterstützt. Die verfügbaren Tools finden Sie unter `src/tools/`.
-Wenn Sie Tools hinzufügen oder vorhandene anpassen möchten, ergänzen oder bearbeiten Sie dort Dateien. Importieren Sie anschließend Ihre Tool-Funktion und registrieren Sie sie in `src/tools/registry.py`.
-Um die Icons im Thinking-Log anzupassen, bearbeiten Sie `TOOL_ICONS` in `src/constants.py`.
+Der Prototyp benötigt ein LLM, das interleaved Thinking bzw. interleaved Tool-Calls unterstützt. Die verfügbaren Tools sind unter `src/tools/` zu finden.
+Wenn weitere Tools hinzugefügt oder vorhandene angepasst werden sollen, werden diese in den Dateien dort ergänzt oder bearbeitet. Anschließend die Tool-Funktion importieren und in `src/tools/registry.py` registrieren.
+Um die Icons im Thinking-Log anzupassen, TOOL_ICONS in `src/constants.py` bearbeiten.
 
 ## Lokale LLMs einrichten
 
 Wir empfehlen, die Anwendung mit lokalen Modellen auf Ihrer Maschine auszuführen. Erforderlich sind ein Reasoning-LLM und ein Embedding-Modell.
-Details finden Sie im [LLM Howto](LLM-HOWTO.md).
+Details gibt es im [LLM Howto](LLM-HOWTO.md).
 
 ## Lizenz
 
@@ -60,8 +60,8 @@ Das KI-Kompetenzzentrum Medien (KI.M) ist der zentrale Hub für künstliche Inte
 
 Wir bieten unabhängige Informationen und praxisnahe Demonstrationen der Fähigkeiten und Grenzen von KI in Medienanwendungen. In unserem AI Lab arbeiten wir mit Partnern zusammen, um reale Implementierungen zu erproben. Unsere Machbarkeitsstudien veröffentlichen wir als Berichte auf unserer Website, die technischen Grundlagen und den Code teilen wir hier in unseren Repositories.
 
-Der KI.M ist eine gemeinsame Initiative der Bayerischen Landeszentrale für neue Medien (BLM) und der Medien.Bayern GmbH, unterstützt von der Bayerischen Staatskanzlei.
+Das KI-Kompetenzzentrum Medien (KI.M) ist ein gemeinsames Vorhaben der Bayerischen Landeszentrale für neue Medien (BLM) und der Medien.Bayern GmbH mit Förderung durch die Bayerische Staatskanzlei.
 
-**Mehr erfahren:** [Besuchen Sie unsere Website](https://www.kim-bayern.de/)
+**Mehr erfahren:** [Auf unserer Website](https://www.kim-bayern.de/)
 
-![logo-kim](assets/RZ_Logo_KIM_RGB_D-Blau.png)
+![logo-kim](assets/KI.M Wortmarke.png)
